@@ -2,6 +2,11 @@
 
 2020-04-29 18:56:03
 
+- [NIS But Imp : Social Life](#nis-but-imp--social-life)
+	- [From 6th Century BC Socio Economic Classed Emerged](#from-6th-century-bc-socio-economic-classed-emerged)
+	- [Ajivika Sect](#ajivika-sect)
+	- [Charavaka](#charavaka)
+
 ---
 
 ## From 6th Century BC Socio Economic Classed Emerged
