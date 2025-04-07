@@ -4,7 +4,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 
 ## Subject Notes and General Studies
 
-#todo
 
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
 
