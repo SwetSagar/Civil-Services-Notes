@@ -1,6 +1,6 @@
 # Civil-Services-Notes
 
-These are the ==notes that I made while preparing for the UPSC Civil Services Exam.== I had the opportunity of writing the mains a couple of times after securing an AIR 233 in UPSC NDA. The notes are comprehensive and ==includes History Optional== syllabus wise. Some updates are required to make them github friendly, which would be done periodicall. Please do not fork for now. Thanks.
+These are the ==notes that I made while preparing for the UPSC Civil Services Exam.== I had the opportunity of writing the mains a couple of times after securing an AIR 233 in UPSC NDA. The notes a[...]
 
 ## Subject Notes and General Studies
 
@@ -8,59 +8,73 @@ These are the ==notes that I made while preparing for the UPSC Civil Services Ex
 
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
 
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/1. Geomorphology and Climatology/1.1 Earth.md | Earth]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/1. Geomorphology and Climatology/1.2 Landforms.md | Landforms]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/1. Geomorphology and Climatology/1.3 Climate of the World.md | Climate of the World]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/1. Geomorphology and Climatology/1.4 Oceans and Coastal Landforms.md | Oceans and Coastal Landforms]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/2. Indian Geography/2.1 Indian Physiography.md | Indian Pysiography]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/2. Indian Geography/2.2 Indian Vegetation.md | Indian Vegetation]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/3. Economic Geography and Location of Industries/3.1 Coal.md | Coal]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/3. Economic Geography and Location of Industries/3.2 Iron Ore.md | Iron Ore]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/3. Economic Geography and Location of Industries/3.3 Petroleum Mineral Oil and Natural Gas.md | Peteroleum, Mineral Oil and Natural Gas]]
-- [[01 Subject Wise Notes/🌏 Geography Static Notes/3. Economic Geography and Location of Industries/3.5 Human Geography Crops.md | Human Geography and Crops]]
+- [Earth](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.1%20Earth.md)
+- [Landforms](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.2%20Landforms.md)
+- [Climate of the World](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.3%20Climate%20of%20the%20World.md)
+- [Oceans and Coastal Landforms](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.4%20Oceans%20and%20Coastal%20Landforms.md)
+- [Indian Physiography](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/2.%20Indian%20Geography/2.1%20Indian%20Physiography.md)
+- [Indian Vegetation](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/2.%20Indian%20Geography/2.2%20Indian%20Vegetation.md)
+- [Coal](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.1%20Coal.md)
+- [Iron Ore](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.2%20Iron%20Ore.md)
+- [Petroleum, Mineral Oil and Natural Gas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.3%20Petroleum%20Mineral%20Oil%20and%20Natural%20Gas.md)
+- [Human Geography and Crops](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.5%20Human%20Geography%20Crops.md)
 
 ### Environment and Disaster Management
 
 #### Environment and Ecology 
 
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.1 Ecology and Functions of an Ecosystem.md | Ecology and Functions of an Ecosystem]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.2 Functions of an Ecosystem.md | Functions of an Ecosystem]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.3 Terrestrial Ecosystem.md | Terrestrial Ecosystem]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.4 Aquatic Ecosystem.md | Aquatic Ecosystem]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.6 Renewable Energy.md | Renenwable Energy]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.7 Environmental Issues.md | Environmental Issues]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/1. Environmental, Ecology/1.8 EIA.md | EIA]]
+- [Ecology and Functions of an Ecosystem](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.1%20Ecology%20and%20Functions%20of%20an%20Ecosystem.md)
+- [Functions of an Ecosystem](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.2%20Functions%20of%20an%20Ecosystem.md)
+- [Terrestrial Ecosystem](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.3%20Terrestrial%20Ecosystem.md)
+- [Aquatic Ecosystem](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.4%20Aquatic%20Ecosystem.md)
+- [Renewable Energy](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.6%20Renewable%20Energy.md)
+- [Environmental Issues](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.7%20Environmental%20Issues.md)
+- [EIA](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/1.%20Environmental%2C%20Ecology/1.8%20EIA.md)
 
 #### Biodiversity 
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.1 Biodiversity.md | Biodiversity]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.2 Indian Biodiversity.md | Indian Biodiverisy]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.3 WPA 1972.md | WPA 1972]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.4 Animal Diversity of India.md | Animal Diversity of India]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.5 Plant Diversity of India.md | Plant Diversity of India]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.6 Marine Organism.md | Marine Organism]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.7 Protected Area Network.md | Protected Area Network]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/2. Biodiveristy/2.8 Conservation Efforts.md | Conservation Efforts]]
+- [Biodiversity](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.1%20Biodiversity.md)
+- [Indian Biodiversity](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.2%20Indian%20Biodiversity.md)
+- [WPA 1972](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.3%20WPA%201972.md)
+- [Animal Diversity of India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.4%20Animal%20Diversity%20of%20India.md)
+- [Plant Diversity of India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.5%20Plant%20Diversity%20of%20India.md)
+- [Marine Organism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.6%20Marine%20Organism.md)
+- [Protected Area Network](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.7%20Protected%20Area%20Network.md)
+- [Conservation Efforts](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.8%20Conservation%20Efforts.md)
 
 #### Climate Change 
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/3 Climate Change/3.1 Climate Change and Impact on India.md | Climate Change and Impact on India]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/3 Climate Change/3.2 Ocean Acidification and Ocean Depletion.md | Ocean Acidification and Ocean Depletion]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/3 Climate Change/3.3 Mitigation Strategies.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/3 Climate Change/3.4 India and Climate Change.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/3 Climate Change/3.5 Climate Change Organisations.md]]
+- [Climate Change and Impact on India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.1%20Climate%20Change%20and%20Impact%20on%20India.md)
+- [Ocean Acidification and Ocean Depletion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.2%20Ocean%20Acidification%20and%20Ocean%20Depletion.md)
+- [Mitigation Strategies](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.3%20Mitigation%20Strategies.md)
+- [India and Climate Change](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.4%20India%20and%20Climate%20Change.md)
+- [Climate Change Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.5%20Climate%20Change%20Organisations.md)
 
 #### Agriculture
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/4. Agriculture/4.1 Agriculture.md]]
+- [Agriculture](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/4.%20Agriculture/4.1%20Agriculture.md)
   
-
 #### Acts, Orgs, Conventions, Environmental Issues
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/5. Acts, Orgs, Convention, Env Issues/5.1 Acts and Policies.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/5. Acts, Orgs, Convention, Env Issues/5.2 Institutions and Measures.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/5. Acts, Orgs, Convention, Env Issues/5.3 Environmental Organisations.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/5. Acts, Orgs, Convention, Env Issues/5.4 International Environmental Conventions Organisations.md]]
-- [[01 Subject Wise Notes/🍃 Environment and Disaster Management/5. Acts, Orgs, Convention, Env Issues/5.5 Environmental Issues and Health Effects.md]]
+- [Acts and Policies](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.1%20Acts%20and%20Policies.md)
+- [Institutions and Measures](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.2%20Institutions%20and%20Measures.md)
+- [Environmental Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.3%20Environmental%20Organisations.md)
+- [International Environmental Conventions Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.4%20International%20Environmental%20Conventions%20Organisations.md)
+- [Environmental Issues and Health Effects](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.5%20Environmental%20Issues%20and%20Health%20Effects.md)
 
 ### Art and Culture 
-- [[01 Subject Wise Notes/🎨 Art and Culture Static Notes/Art and Culture NCERT and CCRT.md]]
+- [Art and Culture NCERT and CCRT](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8E%A8%20Art%20and%20Culture%20Static%20Notes/Art%20and%20Culture%20NCERT%20and%20CCRT.md)
+
+### Economy
+
+- [Budget Summaries](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/Budget%20Summaries.md)
+- [ESI - 2021](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/ESI%20-%202021.md)
+- [ESI 2020 II - State of Economy](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/ESI%202020%20II%20-%20State%20of%20Economy.md)
+- [Economy and Economics](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/001%20Economy%20and%20Economics.md)
+- [Planning](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/002%20Planning.md)
+- [Fiscal System or Public Finance in India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/003%20Fiscal%20System%20or%20Public%20Finance%20in%20India.md)
+- [Taxation in India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/004%20Taxation%20in%20India.md)
+- [Banking System In India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/005%20Banking%20System%20In%20India.md)
+- [Monetary and Credit Policy](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/005%20Monetary%20and%20Credit%20Policy.md)
+
+
+-----------------------
 
 ### Economy
 
