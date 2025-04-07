@@ -487,3 +487,228 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [12.5 Emergence of Afghan Power and Battle of Panipat 1761.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.5%20Emergence%20of%20Afghan%20Power%20and%20Battle%20of%20Panipat%201761.md)
 - [12.6 State of Politics, Culture and Economy on the eve of British Conquest.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.6%20State%20of%20Politics%2C%20Culture%20and%20Economy%20on%20the%20eve%20of%20British%20Conquest.md)
 
+### Modern History
+
+#### [1. European-Penetration](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.3%20Modern-History/1.%20European-Penetration)
+
+- [1.1 Early European Settlements, The Portuguese and the Dutch.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.1%20Early%20European%20Settlements%2C%20The%20Portuguese%20and%20the%20Dutch.md)
+- [1.2 English East India Company.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.2%20English%20East%20India%20Company.md)
+- [1.3 French East India Company.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.3%20French%20East%20India%20Company.md)
+- [1.4 Conflict between the French and The English, Carnatic Wars.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.4%20Conflict%20between%20the%20French%20and%20The%20English%2C%20Carnatic%20Wars.md)
+- [1.5 Conflict between English and the Nawabs of Bengal.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.5%20Conflict%20between%20English%20and%20the%20Nawabs%20of%20Bengal.md)
+- [1.6 The Battle of Plassey and its Significance.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/1.%20European-Penetration/1.6%20The%20Battle%20of%20Plassey%20and%20its%20Significance.md)
+
+#### [2. British-Expansion](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.3%20Modern-History/2.%20British-Expansion)
+
+- [2.1 Bengal - Mir Jafar and Mir Kasim.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/2.%20British-Expansion/2.1%20Bengal%20-%20Mir%20Jafar%20and%20Mir%20Kasim.md)
+- [2.2 The Battle of Buxar.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/2.%20British-Expansion/2.2%20The%20Battle%20of%20Buxar.md)
+- [2.3 Mysore.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/2.%20British-Expansion/2.3%20Mysore.md)
+- [2.4 The Marathas and Anglo Maratha War.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/2.%20British-Expansion/2.4%20The%20Marathas%20and%20Anglo%20Maratha%20War.md)
+- [2.5 The Punjab.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/2.%20British-Expansion/2.5%20The%20Punjab.md)
+
+#### 3. Early‑Structure‑of‑the‑Raj
+- [3.1 Early Administrative Structure.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.1%20Early%20Administrative%20Structure.md)  
+- [3.2 From Diarchy to Direct Control.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.2%20From%20Diarchy%20to%20Direct%20Control.md)  
+- [3.3 Regulating Act of 1773.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.3%20Regulating%20Act%20of%201773.md)  
+- [3.4 Pitts India Act of 1784.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.4%20Pitts%20India%20Act%20of%201784.md)  
+- [3.5 Charter Act of 1833.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.5%20Charter%20Act%20of%201833.md)  
+- [3.6 The Voice of free trade and Changing Character.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.6%20The%20Voice%20of%20free%20trade%20and%20Changing%20Character.md)  
+- [3.7 English Utilitarian and India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.7%20English%20Utilitarian%20and%20India.md)  
+- [3.8 Policies of Gov Generals.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.8%20Policies%20of%20Gov%20Generals.md)  
+citeturn0view0
+
+#### 4. Economic‑Impact
+- [4.1 Permanent Settlement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.1%20Permanent%20Settlement.md)  
+- [4.2 Ryotwari Settlement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.2%20Ryotwari%20Settlement.md)  
+- [4.3 Mahalwari Settlement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.3%20Mahalwari%20Settlement.md)  
+- [4.4 Economic Impact of revenue arrangement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.4%20Economic%20Impact%20of%20revenue%20arrangement.md)  
+- [4.5 Commercialization of Agriculture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.5%20Commercialization%20of%20Agriculture.md)  
+- [4.6 Rise of Landless agrarian labourers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.6%20Rise%20of%20Landless%20agrarian%20labourers.md)  
+- [4.7 Impoverishment of Rural Society.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.7%20Impoverishment%20of%20Rural%20Society.md)  
+- [4.8 Dislocation of traditional trade and commerce.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.8%20Dislocation%20of%20traditional%20trade%20and%20commerce.md)  
+- [4.9 De industrialisation.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.9%20De%20industrialisation.md)  
+- [4.10 Decline of traditional craft.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.10%20Decline%20of%20traditional%20craft.md)  
+- [4.11 Drain of Wealth.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.11%20Drain%20of%20Wealth.md)  
+- [4.12 Economic Transformation of India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.12%20Economic%20Transformation%20of%20India.md)  
+- [4.13 Railroad and Communication Network.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.13%20Railroad%20and%20Communication%20Network.md)  
+- [4.14 Famine and Poverty in Rural Interior.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.14%20Famine%20and%20Poverty%20in%20Rural%20Interior.md)  
+- [4.15 European Business enterprise and its limitations.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.15%20European%20Business%20enterprise%20and%20its%20limitations.md)  
+citeturn1view0
+
+#### 5. Social‑Cultural‑Dev
+- [5.1 State of Indigenous education, its dislocation.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.1%20State%20of%20Indigenous%20education,%20its%20dislocation.md)  
+- [5.2 Orientalist Anglicist Controversy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.2%20Orientalist%20Anglicist%20Controversy.md)  
+- [5.3 Introduction of Western Education in India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.3%20Introduction%20of%20Western%20Education%20in%20India.md)  
+- [5.4 Rise of Press, Literature and Public Opinion.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.4%20Rise%20of%20Press,%20Literature%20and%20Public%20Opinion.md)  
+- [5.5 Rise of Modern Vernacular Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.5%20Rise%20of%20Modern%20Vernacular%20Literature.md)  
+- [5.6 Progress of Science.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.6%20Progress%20of%20Science.md)  
+- [5.7 Christian Missionary Activities in India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.7%20Christian%20Missionary%20Activities%20in%20India.md)  
+- [NIS - Modern Architecture (Not Important for Optional).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/NIS%20-%20Modern%20Architecture%20(Not%20Important%20for%20Optional).md)  
+citeturn2view0
+
+#### 6. Social‑Religious‑Reform‑in‑Bengal
+- [6.1 The Brahmo Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.1%20The%20Brahmo%20Movement.md)  
+- [6.2 The Young Bengal Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.2%20The%20Young%20Bengal%20Movement.md)  
+- [6.3 Dayanand Saraswati.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.3%20Dayanand%20Saraswati.md)  
+- [6.4 Social Reform movements viz Sati,Widow Remarriage,Child Marriage etc..md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.4%20Social%20Reform%20movements%20viz%20Sati,Widow%20Remarriage,Child%20Marriage%20etc..md)  
+- [6.5 Contribution of Indian Renaissance to growth of Modern India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.5%20Contribution%20of%20Indian%20Renaissance%20to%20growth%20of%20Modern%20India.md)  
+- [6.6 Islamic Revivalism - Faraizi and Wahabi Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.6%20Islamic%20Revivalism%20-%20Faraizi%20and%20Wahabi%20Movement.md)  
+citeturn3view0
+
+#### 7. Indian‑Response
+- [7.8 The Great Revolt of 1857‑its Origin, character, causes and failure and its consequences..md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.8%20The%20Great%20Revolt%20of%201857-its%20Origin%2C%20character%2C%20causes%20and%20failure%20and%20its%20consequences..md)  
+- [7.9 Shift in character of Peasant move post 1857.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.9%20Shift%20in%20character%20of%20Peasant%20move%20post%201857.md)  
+- [7.10 Peasant‑Movement‑of‑1920s‑and‑1930s.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.10%20Peasant-Movement-of-1920s-and-1930s.md)  
+citeturn4view0
+
+#### 8. Indian Nationalism factors
+- [8.1 Factors Leading to the Birth of Indian Nationalism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.1%20Factors%20Leading%20to%20the%20Birth%20of%20Indian%20Nationalism.md)  
+- [8.2 Politics of Association.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.2%20Politics%20of%20Association.md)  
+- [8.3 Foundation of Indian National Congress.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.3%20Foundation%20of%20Indian%20National%20Congress.md)  
+- [8.4 Safety Valve thesis.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.4%20Safety%20Valve%20thesis.md)  
+- [8.5 Programmes and Objective of Early Congress.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.5%20Programmes%20and%20Objective%20of%20Early%20Congress.md)  
+- [8.6 Social composition of Early Congress.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.6%20Social%20composition%20of%20Early%20Congress.md)  
+- [8.7 The Moderates and Extremists.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.7%20The%20Moderates%20and%20Extremists.md)  
+- [8.8 The partition of Bengal 1905.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.8%20The%20partition%20of%20Bengal%201905.md)  
+- [8.9 Swadeshi Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.9%20Swadeshi%20Movement.md)  
+- [8.10 The beginning of Revolutionary Extremism in India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.10%20The%20beginning%20of%20Revolutionary%20Extremism%20in%20India.md)  
+citeturn7view0
+
+#### 9. Rise‑of‑Gandhi
+- [9.1 Character of Gandhian Nationalism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.1%20Character%20of%20Gandhian%20Nationalism.md)  
+- [9.2 Gandhi's Popular Appeal.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.2%20Gandhi's%20Popular%20Appeal.md)  
+- [9.3 Rowlatt Satyagrah.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.3%20Rowlatt%20Satyagrah.md)  
+- [9.4 Khilafat Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.4%20Khilafat%20Movement.md)  
+- [9.5 Non Cooperation Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.5%20Non%20Cooperation%20Movement.md)  
+- [9.6 National Politics from NCN to CDM.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.6%20National%20Politics%20from%20NCN%20to%20CDM.md)  
+- [9.7 The 2 phases of CDM.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.7%20The%202%20phases%20of%20CDM.md)  
+- [9.8 Simon Commission.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.8%20Simon%20Commission.md)  
+- [9.9 The Nehru Report.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.9%20The%20Nehru%20Report.md)  
+- [9.10 The RTCs.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.10%20The%20RTCs.md)  
+- [9.11 Nationalism and Peasant Movements - Peasant Movement in the 1930s and 1940s.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.11%20Nationalism%20and%20Peasant%20Movements%20-%20Peasant%20Movement%20in%20the%201930s%20and%201940s.md)  
+- [9.12 Nationalism and Working Class Movements.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.12%20Nationalism%20and%20Working%20Class%20Movements.md)  
+- [9.13 Women and Indian youth and students in Indian politics 1885-1947.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.13%20Women%20and%20Indian%20youth%20and%20students%20in%20Indian%20politics%201885-1947.md)  
+- [9.14 Election of 1937 and formation of Ministries.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.14%20Election%20of%201937%20and%20formation%20of%20Ministries.md)  
+- [9.15 Cripps Mission.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.15%20Cripps%20Mission.md)  
+- [9.16 The Quit India Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.16%20The%20Quit%20India%20Movement.md)  
+- [9.17 Wavell Plan.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.17%20Wavell%20Plan.md)  
+- [9.18 Cabinet Mission.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.18%20Cabinet%20Mission.md)  
+
+#### 10. Constituional‑Dev_
+
+- [10.1 Constitutional Development between 1858-1935.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/10.%20Constituional-Dev_/10.1%20Constitutional%20Development%20between%201858-1935.md)  
+citeturn9view0
+
+#### 11. Other‑Strands‑Revolutionaries‑Left
+
+- [11.1 The Revolutionaries.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/11.%20Other-Strands-Revolutionaries-Left/11.1%20The%20Revolutionaries.md)  
+- [11.2 The left.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/11.%20Other-Strands-Revolutionaries-Left/11.2%20The%20left.md)  
+- [11.3 The left within Congress.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/11.%20Other-Strands-Revolutionaries-Left/11.3%20The%20left%20within%20Congress.md)  
+- [11.4 Communist Party of India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/11.%20Other-Strands-Revolutionaries-Left/11.4%20Communist%20Party%20of%20India.md)  
+- [11.5 Other Left Parties.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/11.%20Other-Strands-Revolutionaries-Left/11.5%20Other%20Left%20Parties.md)  
+
+#### 12. Politics‑of‑Separatism
+
+- [12.1 The Muslim League.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/12.%20Politics-of-Separatism/12.1%20The%20Muslim%20League.md)  
+- [12.2 The Hindu Mahasabha.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/12.%20Politics-of-Separatism/12.2%20The%20Hindu%20Mahasabha.md)  
+- [12.3 Communalism and Politics of Partition.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/12.%20Politics-of-Separatism/12.3%20Communalism%20and%20Politics%20of%20Partition.md)  
+- [12.4 Transfer of Power.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/12.%20Politics-of-Separatism/12.4%20Transfer%20of%20Power.md)  
+- [12.5 Independence.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/12.%20Politics-of-Separatism/12.5%20Independence.md)  
+
+#### 13. Consolidation‑of‑Nation
+
+- [13.1 Nehru’s‑Foreign‑Policy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.1%20Nehru%27s-Foreign-Policy.md)  
+- [13.2 India‑and‑her‑Neighbours‑1947‑1964.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.2%20India-and-her-Neighbours-1947-1964.md)  
+- [13.3 Linguistic‑Reorganisation‑of‑States‑1935‑1947.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.3%20Linguistic-Reorganisation-of-States-1935-1947.md)  
+- [13.4 Regionalism‑and‑Regional‑Inequality.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.4%20Regionalism-and-Regional-Inequality.md)  
+- [13.5 Integration‑of‑Princely‑States‑.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.5%20Integration-of-Princely-States-.md)  
+- [13.6 Princes‑in‑electoral‑politics.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.6%20Princes-in-electoral-politics.md)  
+- [13.7 The‑question‑of‑National‑Language.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/13.%20Consolidation-of-Nation/13.7%20The-question-of-National-Language.md)  
+
+#### 14. Caste‑Ethnicity‑after‑1947
+- [14.1 Caste‑and‑Ethnicity‑after‑1947.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/14.%20Caste-Ethnicity-after-1947/14.1%20Caste-and-Ethnicity-after-1947.md)  
+- [14.2 Dalit‑Movements.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/14.%20Caste-Ethnicity-after-1947/14.2%20Dalit-Movements.md)  
+citeturn0view1
+
+#### 15. Economic‑Dev‑Political‑Change
+- [15.1 Economic Development and Political Change.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.1%20Economic%20Development%20and%20Political%20Change.md)  
+- [15.2 Land‑Reforms.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.2%20Land-Reforms.md)  
+- [15.3 Politics‑of‑Planning‑and‑rural‑reconstruction.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.3%20Politics-of-Planning-and-rural-reconstruction.md)  
+- [15.4 Ecology‑and‑Environmental‑policy‑in‑post‑colonial‑India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.4%20Ecology-and-Environmental-policy-in-post-colonial-India.md)  
+- [15.5 Progress‑of‑Science.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.5%20Progress-of-Science.md)  
+
+
+### World History
+
+#### 1. Enlightenment Modern Ideas  
+- [1.1 Major Ideas of Enlightenment.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.1%20Major%20Ideas%20of%20Enlightenment.md)  
+- [1.2 Spread of Enlightenment in the Colonies.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.2%20Spread%20of%20Enlightenment%20in%20the%20Colonies.md)  
+- [1.3 Rise of Socialist ideas (upto Marx) and Spread of Marxian Socialism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.3%20Rise%20of%20Socialist%20ideas%20(upto%20Marx)%20and%20Spread%20of%20Marxian%20Socialism.md)  
+
+#### 2. Modern Politics Origin  
+- [2.1 European State System.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/2.%20Modern%20Politics%20Origin/2.1%20European%20State%20System.md)  
+- [2.2 American Revolution and the Constitution.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/2.%20Modern%20Politics%20Origin/2.2%20American%20Revolution%20and%20the%20Constitution.md)  
+- [2.3 French Revolution and aftermath 1789 1815.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/2.%20Modern%20Politics%20Origin/2.3%20French%20Revolution%20and%20aftermath%201789%201815.md)  
+- [2.4 American Civil War with reference to Lincoln and abolition of Slavery.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/2.%20Modern%20Politics%20Origin/2.4%20American%20Civil%20War%20with%20reference%20to%20Lincoln%20and%20abolition%20of%20Slavery.md)  
+- [2.5 British Democratic Politics (1815 1850).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/2.%20Modern%20Politics%20Origin/2.5%20British%20Democratic%20Politics%20(1815%201850).md)   
+
+#### 3. Industrialisation  
+- [3.1 English Industrial Revolutions ‑ Causes and Impact on society.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/3.%20Industrialisation/3.1%20English%20Industrial%20Revolutions%20-%20Causes%20and%20Impact%20on%20society.md)  
+- [3.2 Industrialisation in other Countries ‑ USA, GER, Russia, Japan.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/3.%20Industrialisation/3.2%20Industrialisation%20in%20other%20Countries%20-%20USA,%20GER,%20Russia,%20Japan.md)  
+- [3.3 Industrialisation and Globalization.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/3.%20Industrialisation/3.3%20Industrialisation%20and%20Globalization.md)  
+
+#### 4. Nation‑State‑System  
+- [4.1 Disintegration of Empires in face of emergence Nationalism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/4.%20Nation-State-System/4.1%20Disintegration%20of%20Empires%20in%20face%20of%20emergence%20Nationalism.md)  
+- [4.2 Nationalism ‑ state building in Germany and Italy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/4.%20Nation-State-System/4.2%20Nationalism%20-%20state%20building%20in%20Germany%20and%20Italy.md)  
+- [4.3 Rise of Nationalism in 19th century.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/4.%20Nation-State-System/4.3%20Rise%20of%20Nationalism%20in%2019th%20century.md)  
+
+#### 5. Imperialism‑Colonialism  
+- [5.1 South and South East Asia.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/5.%20Imperialism-Colonialism/5.1%20South%20and%20South%20East%20Asia.md)  
+- [5.2 Latin America and South Africa.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/5.%20Imperialism-Colonialism/5.2%20Latin%20America%20and%20South%20Africa.md)  
+- [5.3 Australia.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/5.%20Imperialism-Colonialism/5.3%20Australia.md)  
+- [5.4 Imperialism and Free trade ‑ Rise of neo imperialism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/5.%20Imperialism-Colonialism/5.4%20Imperialism%20and%20Free%20trade%20-%20Rise%20of%20neo%20imperialism.md)  
+
+#### 6. Revolution‑Counter‑Revolution  
+- [6.1 19th Century European Revolution.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/6.%20Revolution-Counter-Revolution/6.1%2019th%20Century%20European%20Revolution.md)  
+- [6.2 The Russian Revolution of 1917 1921.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/6.%20Revolution-Counter-Revolution/6.2%20The%20Russian%20Revolution%20of%201917%201921.md)  
+- [6.3 Fascist Counter Revolution in Italy and Germany.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/6.%20Revolution-Counter-Revolution/6.3%20Fascist%20Counter%20Revolution%20in%20Italy%20and%20Germany.md)  
+- [6.4 The‑Chinese‑Revolution‑of‑1949.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/6.%20Revolution-Counter-Revolution/6.4%20The-Chinese-Revolution-of-1949.md)  
+
+
+#### 7. World‑Wars  
+- [7.1 WWI and WWII ‑ Societal implication.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/7.%20World-Wars/7.1%20WWI%20and%20WWII%20-%20Societal%20implication.md)  
+- [7.2 WWI Causes and Consequences.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/7.%20World-Wars/7.2%20WWI%20Causes%20and%20Consequences.md)  
+- [7.3 WWII Causes and Consequences.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/7.%20World-Wars/7.3%20WWII%20Causes%20and%20Consequences.md)  
+
+#### 8. World‑After‑WWII  
+- [8.1 Emergence of two power blocs.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/8.%20World-After-WWII/8.1%20Emergence%20of%20two%20power%20blocs.md)  
+- [8.2 Emergence of 3rd World and Non alignment.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/8.%20World-After-WWII/8.2%20Emergence%20of%203rd%20World%20and%20Non%20alignment.md)  
+- [8.3 UNO and the global disputes.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/8.%20World-After-WWII/8.3%20UNO%20and%20the%20global%20disputes.md)  
+
+#### 9. Liberation‑from‑Colonial‑Rule  
+- [9.1 Latin America Bolivar.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/9.%20Liberation-from-Colonial-Rule/9.1%20Latin%20America%20Bolivar.md)  
+- [9.2 Arab Wold Egypt.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/9.%20Liberation-from-Colonial-Rule/9.2%20Arab%20Wold%20Egypt.md)  
+- [9.3 Africa Apartheid to Democracy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/9.%20Liberation-from-Colonial-Rule/9.3%20Africa%20Apartheid%20to%20Democracy.md)  
+- [9.4 South‑East‑Asia‑Vietnam.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/9.%20Liberation-from-Colonial-Rule/9.4%20South-East-Asia-Vietnam.md)  
+
+
+#### 10. Decolonisation‑and‑Underdev  
+- [10.1 Factors‑constraining‑development — Latin‑America, Africa.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/10.%20Decolonisation-and-Underdev/10.1%20Factors-constraining-development---Latin-America,-Africa.md)  
+
+
+#### 11. Unificaiton‑of‑Europe  
+- [11Post War Foundation ‑ NATO and European Community.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/11.%20Unificaiton-of-Europe/11.1%20Post%20War%20Foundation%20-%20NATO%20and%20European%20Community.md)  
+- [11.2 Consolidation‑and‑Expansion‑of‑European‑Community.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/11.%20Unificaiton-of-Europe/11.2%20Consolidation-and-Expansion-of-European-Community.md)  
+- [11.3 European‑Union.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/11.%20Unificaiton-of-Europe/11.3%20European-Union.md)  
+
+
+#### 12. Disintegration‑of‑USSR‑Unipolar‑World  
+- [12.1 Factors leading to the Collapse of Soviet Communism and USSR (1985‑1991).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.1%20Factors%20leading%20to%20the%20Collapse%20of%20Soviet%20Communism%20and%20USSR%20(1985-1991).md)  
+- [12.2 Political Change in Eastern Europe 1989 2001.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.2%20Political%20Change%20in%20Eastern%20Europe%201989%202001.md)  
+- [12.3 End‑of‑the‑Cold‑War‑and‑US‑ascendancy‑in‑the‑World‑as‑the‑lone‑superpower.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.3%20End-of-the-Cold-War-and-US-ascendancy-in-the-World-as-the-lone-superpower.md)  
+
+### 08.5 History Optional Recent PYQ Analysis
+- [2021 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%201%20History%20Optional%20Answers.md)  
+- [2021 Paper 2 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%202%20History%20Optional%20Answers.md)  
+- [2022 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2022%20Paper%201%20History%20Optional%20Answers.md)  
+- [2022 Paper 2 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2022%20Paper%202%20History%20Optional%20Answers.md)  
