@@ -1,6 +1,6 @@
 # Civil-Services-Notes
 
-These are the ==notes that I made while preparing for the UPSC Civil Services Exam.== I had the opportunity of writing the mains a couple of times after securing an AIR 233 in UPSC NDA. The notes a[...]
+These are the notes that I made while preparing for the UPSC Civil Services Exam. 
 
 ## Subject Notes and General Studies
 
