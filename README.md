@@ -330,7 +330,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Kharavelas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.1%20Kharavelas.md)
 - [Satvahanas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.2%20Satvahanas.md)
 - [Tamil States of Sangam Age](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.3%20Tamil%20States%20of%20Sangam%20Age.md)
-- #### Early State and Society in the East, Deccan and the South
+
+#### Early State and Society in the East, Deccan and the South
 
 - [Administration](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.4%20Administration.md)
 - [Economy, Land Grants, Coinage and Trade Guilds](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.5%20Economy,%20Land%20Grants,%20Coinage%20and%20Trade%20Guilds.md)
@@ -341,6 +342,7 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 #### Guptas, Vakatakas and the Vardhans
 
 - [Polity and Administration](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.1%20Polity%20and%20Administration.md)
+- 
 
 
 
