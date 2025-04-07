@@ -342,12 +342,148 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 #### Guptas, Vakatakas and the Vardhans
 
 - [Polity and Administration](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.1%20Polity%20and%20Administration.md)
-- [Economy](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.2%20Economy.md)
-- [Society](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.3%20Society.md)
-- [Religion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.4%20Religion.md)
-- [Art and Architecture](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.5%20Art%20and%20Architecture.md)
-- [Literature](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.6%20Literature.md)
-- [Science and Technology](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.7%20Science%20and%20Technology.md)
-- [Decline](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.8%20Decline.md)
+- [Economic Conditions](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.2%20Economic%20Conditions.md)
+- [Coinage of the Guptas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.3%20Coinage%20of%20the%20Guptas.md)
+- [Land Grants](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.4%20Land-Grants.md)
+- [Decline of Urban Centre](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.5%20Decline%20of%20Urban%20Centres.md)
+- [Indian Feudalism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.6%20Indian%20Feudalism.md)
+- [Caste System](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.7%20Caste%20System.md)
+- [Position of Women](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.8%20Position%20of%20Women.md)
+- [Education and Educational Institutions](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.9%20Education-and-Edu.-Institutions.md)
+- [Literature, Scientific Literature](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.10%20Literature%2C%20Scientific%20Literature.md)
+- [Art and Culture](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.11%20Art%20and%20Culture.md)
 
+
+#### Regional States during the Guptas
+
+- [11.1 The-Kadambas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.1%20The-Kadambas.md)
+- [11.2 Pallavas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.2%20Pallavas.md)
+- [11.3 Chalukyas of Badami aka Western Chalukyas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.3%20Chalukyas%20of%20Badami%20aka%20Western%20Chalukyas.md)
+- [11.4 Trade-Guilds.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.4%20Trade-Guilds.md)
+- [11.5 Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.5%20Literature.md)
+- [11.6 Growth-of-Vaishnava-and-Saiva-Religion.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.6%20Growth-of-Vaishnava-and-Saiva-Religion.md)
+- [11.7 Tamil-Bhakti-Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.7%20Tamil-Bhakti-Movement.md)
+- [11.8 Palas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.8%20Palas.md)
+- [11.9 Senas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.9%20Senas.md)
+- [11.10 Rashtrakutas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.10%20Rashtrakutas.md)
+- [11.11 Paramaras.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.11%20Paramaras.md)
+- [11.12 Cultural Aspects.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.12%20Cultural%20Aspects.md)
+- [11.13 Arab Conquest of Sindh.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.13%20Arab%20Conquest%20of%20Sindh.md)
+- [11.14 Alberuni.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.14%20Alberuni.md)
+- [11.15 The-Chalukyas-of-Kalyan.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.15%20The-Chalukyas-of-Kalyan.md)
+- [11.16 Chola.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.16%20Chola.md)
+- [11.17 Hoyasalas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.17%20Hoyasalas.md)
+- [11.18 Pandyas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.18%20Pandyas.md)
+- [11.19 Growth of Art and Architecture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.19%20Growth%20of%20Art%20and%20Architecture.md)
+- [11.20 Religious-Sects.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.20%20Religious-Sects.md)
+- [11.21 Institution-of-Temple-and-Mathas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.21%20Institution-of-Temple-and-Mathas.md)
+- [11.22 Agraharas.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.22%20Agraharas.md)
+- [11.23 Education-and-Literature-.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.23%20Education-and-Literature-.md)
+- [11.24 Economy and Society.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.24%20Economy%20and%20Society.md) 
+
+### Medieval India
+
+#### Early 750-1200 AD
+
+- [1.1 Major‑Political‑Development‑in‑Northern‑India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.1%20Major-Political-Development-in-Northern-India.md)
+- [1.2 Origin and the Rise of Rajputs.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.2%20Origin%20and%20the%20Rise%20of%20Rajputs.md)
+- [1.3 Agrarian Economy and Urban Settlements.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.3%20Agrarian%20Economy%20and%20Urban%20Settlements.md)
+- [1.4 Trade and Commerce.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.4%20Trade%20and%20Commerce.md)
+- [1.5 Society - Status of Brahmans and New Social Order.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.5%20Society%20-%20Status%20of%20Brahmans%20and%20New%20Social%20Order.md)
+- [1.6 Condition of Women.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.6%20Condition%20of%20Women.md)
+- [1.7 Indian Science and Technology.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.7%20Indian%20Science%20and%20Technology.md)
+- [NIS—Literary‑Sources‑of‑Medieval‑India‑(Overview).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/NIS---Literary-Sources-of-Medieval-India-%28Overview%29.md)
+
+#### 2. Cultural‑Traditions‑750‑1200
+- [2.1 Philosophy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/2.%20Cultural-Traditions-750-1200/2.1%20Philosophy.md)  
+- [2.2 Religion.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/2.%20Cultural-Traditions-750-1200/2.2%20Religion.md)  
+- [NIS ‑ Art and Architecture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/2.%20Cultural-Traditions-750-1200/NIS%20-%20Art%20and%20Architecture.md)  
+
+
+#### 3. 13th‑Century
+- [3.1 Establishment of Delhi Sultanate ‑ Ghurian Invasions and Factors for its success.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/3.%2013th-Century/3.1%20Establishment%20of%20Delhi%20Sultanate%20-%20Ghurian%20Invasions%20and%20Factors%20for%20its%20success.md)  
+- [3.2 Economic, Social and Cultural Consequences.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/3.%2013th-Century/3.2%20Economic%2C%20Social%20and%20Cultural%20Consequences.md)  
+- [3.3 Foundation‑of‑Sultanate‑and‑Early‑Turkish‑Sultans.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/3.%2013th-Century/3.3%20Foundation-of-Sultanate-and-Early-Turkish-Sultans.md)  
+- [3.4 Consolidation ‑ Rule of Iltutmish and Balban.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/3.%2013th-Century/3.4%20Consolidation%20-%20Rule%20of%20Iltutmish%20and%20Balban.md)  
+- [Not In Syllabus ‑ Polity‑during‑Sultanate.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/3.%2013th-Century/Not%20In%20Syllabus%20-%20Polity-during-Sultanate.md)  
+
+
+#### 4. 14th‑Century
+- [4.1 The Khaliji Revolution.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/4.%2014th-Century/4.1%20The%20Khaliji%20Revolution.md)  
+- [4.2 Alauddin‑Khalji.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/4.%2014th-Century/4.2%20Alauddin-Khalji.md)  
+- [4.3 Muhammad Tughluq (1325‑1351).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/4.%2014th-Century/4.3%20Muhammad%20Tughluq%20(1325-1351).md)  
+- [4.4 Firuz Tughluq.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/4.%2014th-Century/4.4%20Firuz%20Tughluq.md)  
+
+
+#### 5. Society‑Culture‑Economy‑in‑the‑13th‑‑14th‑Cen
+- [5.1 Society.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/5.%20Society-Culture-Economy-in-the-13th--14th-Cen/5.1%20Society.md)  
+- [5.2 Culture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/5.%20Society-Culture-Economy-in-the-13th--14th-Cen/5.2%20Culture.md)  
+- [5.3 Economy ‑ Agricultural Production, rise of urban economy, non agricultural production, trade and commerce.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/5.%20Society-Culture-Economy-in-the-13th--14th-Cen/5.3%20Economy%20-%20Agricultural%20Production%2C%20rise%20of%20urban%20economy%2C%20non%20agricultural%20production%2C%20trade%20and%20commerce.md)  
+
+
+#### 6. 15th‑and‑early‑16th‑CE
+- [6.1 Rise of Provincial Dynasties.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.1%20Rise%20of%20Provincial%20Dynasties.md)  
+- [6.2 Political Development and Economy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.2%20Political%20Development%20and%20Economy.md)  
+- [6.3 Vijayanagara‑Empire.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.3%20Vijayanagara-Empire.md)  
+- [6.4 The‑Lodhis.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.4%20The-Lodhis.md)  
+- [6.5 Mughal Empire First Phase Babur and Humayun.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.5%20Mughal%20Empire%20First%20Phase%20Babur%20and%20Humayun.md)  
+- [6.6 The Sur Empire.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.6%20The%20Sur%20Empire.md)  
+- [6.7 Portuguese Colonial Enterprise.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.7%20Portuguese%20Colonial%20Enterprise.md)  
+- [6.8 Bhakti and Sufi Movements.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/6.%2015th-and-early-16th-CE/6.8%20Bhakti%20and%20Sufi%20Movements.md)  
+
+#### 7. Society‑Culture‑15th‑and‑16th‑Cen
+- [7.1 Regional and Cultural Specificities.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/7.%20Society-Culture-15th-and-16th-Cen/7.1%20Regional%20and%20Cultural%20Specificities.md)  
+- [7.2 Literary‑Traditions.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/7.%20Society-Culture-15th-and-16th-Cen/7.2%20Literary-Traditions.md)  
+- [7.3 Provincial‑Architecture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/7.%20Society-Culture-15th-and-16th-Cen/7.3%20Provincial-Architecture.md)  
+- [7.4 Arts in Vijayanagara Empire.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/7.%20Society-Culture-15th-and-16th-Cen/7.4%20Arts%20in%20Vijayanagara%20Empire.md)  
+- [7.5 Society, Culture and Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/7.%20Society-Culture-15th-and-16th-Cen/7.5%20Society%2C%20Culture%20and%20Literature.md)  
+
+#### 8. Akbar
+- [8.1 Conquests and Consolidation of the Empire.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.1%20Conquests%20and%20Consolidation%20of%20the%20Empire.md)  
+- [8.2 Establishment of Jagir and Mansab System.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.2%20Establishment%20of%20Jagir%20and%20Mansab%20System.md)  
+- [8.3 Rajput Policy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.3%20Rajput%20Policy.md)  
+- [8.4 Evolution of Religious and Social Outlook.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.4%20Evolution%20of%20Religious%20and%20Social%20Outlook.md)  
+- [8.5 Theory of Sulh‑i‑Kul and Religious Policy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.5%20Theory%20of%20Sulh-i-Kul%20and%20Religious%20Policy.md)  
+- [8.6 Court‑Patronage‑of‑Art‑and‑Technology.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.6%20Court-Patronage-of-Art-and-Technology.md)  
+
+
+#### 9. Mughal‑Empire‑in‑17th‑Century
+- [9.1 Major Administrative Policies of Jahangir, Shahjahan and Aurangzeb.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.1%20Major%20Administrative%20Policies%20of%20Jahangir%2C%20Shahjahan%20and%20Aurangzeb.md)  
+- [9.2 The Empire and the Zamindars.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.2%20The%20Empire%20and%20the%20Zamindars.md)  
+- [9.3 Religious policies of Jahangir, Shahjahan and Aurangzeb.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.3%20Religious%20policies%20of%20Jahangir%2C%20Shahjahan%20and%20Aurangzeb.md)  
+- [9.4 Nature of Mughal State.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.4%20Nature%20of%20Mughal%20State.md)  
+- [9.5 Late 17th Century crisis and the Revolts.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.5%20Late%2017th%20Century%20crisis%20and%20the%20Revolts.md)  
+- [9.6 The‑Ahom‑Kingdom.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.6%20The-Ahom-Kingdom.md)  
+- [9.7 Shivaji‑and‑the‑Early‑Maratha‑Kingdom.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.7%20Shivaji-and-the-Early-Maratha-Kingdom.md)  
+- [NIS ‑ Conquests under Jehangir, Shah Jahan and Aurangzeb.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/NIS%20-%20Conquests%20under%20Jehangir%2C%20Shah%20Jahan%20and%20Aurangzeb.md)  
+
+
+#### 10. Economy‑Society‑16‑17‑Century
+- [10.1 Population,‑Agriculture‑production,‑Craft‑Production.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.1%20Population%2C-Agriculture-production%2C-Craft-Production.md)  
+- [10.2 Towns.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.2%20Towns.md)  
+- [10.3 Commerce with Europe through Dutch, English and French Companies.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.3%20Commerce%20with%20Europe%20through%20Dutch%2C%20English%20and%20French%20Companies.md)  
+- [10.4 Trade Revolution.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.4%20Trade%20Revolution.md)  
+- [10.5 Indian‑Mercantile‑Classes.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.5%20Indian-Mercantile-Classes.md)  
+- [10.6 Banking, Insurance and Credit Systems.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.6%20Banking%2C%20Insurance%20and%20Credit%20Systems.md)  
+- [10.7 Conditions of Peasants and Women.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.7%20Conditions%20of%20Peasants%20and%20Women.md)  
+- [10.8 Evolution of Sikh community and the Khalsa Panth.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.8%20Evolution%20of%20Sikh%20community%20and%20the%20Khalsa%20Panth.md)  
+
+#### [Culture-in-the-Mughal-Empire](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire):**
+
+- [11.1 Persian Histories and Other Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.1%20Persian%20Histories%20and%20Other%20Literature.md)
+- [11.2 Hindi and Other Religious Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.2%20Hindi%20and%20Other%20Religious%20Literature.md)
+- [11.3 Mughal Architecture.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.3%20Mughal%20Architecture.md)
+- [11.4 Mughal-Painting.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.4%20Mughal-Painting.md)
+- [11.5 Provincial-Architecture-and-Painting.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.5%20Provincial-Architecture-and-Painting.md)
+- [11.6 Classical-Music.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.6%20Classical-Music.md)
+- [11.7 Science-and-Technology.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.7%20Science-and-Technology.md)
+
+#### [18th-Century](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.2%20Medieval-India/12.%2018th-Century)
+
+- [12.1 Factors-for-decline-of-the-Mughal-Empire.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.1%20Factors-for-decline-of-the-Mughal-Empire.md)
+- [12.2 Regional Principalities.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.2%20Regional%20Principalities.md)
+- [12.3 Maratha Ascendance under the Peshwas a.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.3%20Maratha%20Ascendance%20under%20the%20Peshwas%20a.md)
+- [12.4 Maratha Fiscal and Financial System.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.4%20Maratha%20Fiscal%20and%20Financial%20System.md)
+- [12.5 Emergence of Afghan Power and Battle of Panipat 1761.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.5%20Emergence%20of%20Afghan%20Power%20and%20Battle%20of%20Panipat%201761.md)
+- [12.6 State of Politics, Culture and Economy on the eve of British Conquest.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.6%20State%20of%20Politics%2C%20Culture%20and%20Economy%20on%20the%20eve%20of%20British%20Conquest.md)
 
