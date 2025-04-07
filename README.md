@@ -342,7 +342,12 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 #### Guptas, Vakatakas and the Vardhans
 
 - [Polity and Administration](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.1%20Polity%20and%20Administration.md)
-- 
-
+- [Economy](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.2%20Economy.md)
+- [Society](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.3%20Society.md)
+- [Religion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.4%20Religion.md)
+- [Art and Architecture](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.5%20Art%20and%20Architecture.md)
+- [Literature](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.6%20Literature.md)
+- [Science and Technology](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.7%20Science%20and%20Technology.md)
+- [Decline](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/10.%20Guptas-Vakatakas-and-Vardhans/10.8%20Decline.md)
 
 
