@@ -1,11 +1,14 @@
 # Civil-Services-Notes
 
-These are the notes that I made while preparing for the UPSC Civil Services Exam. 
+These are the notes that I made while preparing for the UPSC Civil Services Exam. I had the opportunity to write 2 mains after having an air 233 in NDA in the past. Notes that have been made a comprehensive and contains General Studies and History Optional. They are being optimised for github and would be slowly be updated. Please do not fork for now. Thanks.
 
 ## Subject Notes and General Studies
 
+Subject Notes here contains Geography, Environmental Studies, Economy and Essay. They are made with respect to their reference material and not syllabus wise. They are static in nature and not being correlated with current affairs.
 
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
+
+Sources referred for this were : Geography NCERT for XI and XII and GC Leong.
 
 - [Earth](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.1%20Earth.md)
 - [Landforms](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.2%20Landforms.md)
@@ -18,7 +21,10 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Petroleum, Mineral Oil and Natural Gas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.3%20Petroleum%20Mineral%20Oil%20and%20Natural%20Gas.md)
 - [Human Geography and Crops](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.5%20Human%20Geography%20Crops.md)
 
+
 ### Environment and Disaster Management
+
+Sources that were referred for this were : Shankar IAS and the Internet.
 
 #### Environment and Ecology 
 
@@ -58,9 +64,12 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Environmental Issues and Health Effects](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.5%20Environmental%20Issues%20and%20Health%20Effects.md)
 
 ### Art and Culture 
+
 - [Art and Culture NCERT and CCRT](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8E%A8%20Art%20and%20Culture%20Static%20Notes/Art%20and%20Culture%20NCERT%20and%20CCRT.md)
 
 ### Economy
+
+Sources that were referred for this were Indian Economy by Ramesh Singh, SRI RAM IAS Economy by SriRAM IAS, Economic Survey of India, Budget of India.
 
 - [Budget Summaries](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/Budget%20Summaries.md)
 - [ESI - 2021](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/ESI%20-%202021.md)
@@ -79,6 +88,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Indian Agriculture and Food Management](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/011%20Indian%20Agriculture%20and%20Food%20Management.md)
 
 ### Science and Technology
+
+Sources referred for this were Science NCERT for 11th and 12th standard.
 
 - [Biology](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Biology.md)
 - [Chemistry](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Chemistry.md)
@@ -100,6 +111,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 
 ### Essay
 
+Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Essay material, the Internet.
+
 - [Important Topics Content, Intro, Conclusion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/1%20Important%20Topics%20Content,%20Intro,%20Conclusion.md)
 - [Philosophical Quotes and Content](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/2.%20Philosophical%20Quotes%20and%20Content.md)
 - [Quotes Topic Wise](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/3.%20Quotes%20Topic%20Wise.md)
@@ -107,6 +120,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [PYQs](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/5.%20PYQs.md)
 
 ### General Studies 1
+
+Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
 
 #### History and Culture
 
@@ -127,6 +142,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Communalism, Regionalism, Secularism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/04%20GS-1/3%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6%20Society/3.3%20Communalism,%20Regionalism,%20Secularism.md)
 
 ### General Studies 2
+
+Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
 
 #### Polity
 
@@ -159,6 +176,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 
 ### General Studies 3
 
+Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
+
 #### Economy
 
 - [Inclusive Growth and Budgeting](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/1.%20Economy/1.2%20Inclusive%20Growth%20and%20Budgeting.md)
@@ -189,6 +208,8 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [Various security forces and Agencies and their mandate; Linkages of Organised Crime with Terrorism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.3%20Various%20security%20forces%20and%20Agencies%20and%20their%20mandate;%20Linkages%20of%20Organised%20Crime%20with%20Terrorism.md)
 
 ### General Studies 4
+
+Notes are made according to syllabus. Materials used were Ethics and Aptitude by Lexicon publications, ChatGPT for answers to the questions. Notes from other sources like Lukmaan IAS, Ethics book by Mudit Jain are better than Lexicon. 
 
 #### Human Interface and Ethics in Public Relations
 
@@ -252,6 +273,10 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 ## History Optional
 
 ### Ancient History
+
+Sources referred to this were from : 
+  1. Old NCERT by RS Sharma
+  2. 
 
 #### Sources
 
@@ -468,7 +493,7 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [10.7 Conditions of Peasants and Women.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.7%20Conditions%20of%20Peasants%20and%20Women.md)  
 - [10.8 Evolution of Sikh community and the Khalsa Panth.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/10.%20Economy-Society-16-17-Century/10.8%20Evolution%20of%20Sikh%20community%20and%20the%20Khalsa%20Panth.md)  
 
-#### [Culture-in-the-Mughal-Empire](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire):**
+#### [Culture-in-the-Mughal-Empire](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire)
 
 - [11.1 Persian Histories and Other Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.1%20Persian%20Histories%20and%20Other%20Literature.md)
 - [11.2 Hindi and Other Religious Literature.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/11.%20Culture-in-the-Mughal-Empire/11.2%20Hindi%20and%20Other%20Religious%20Literature.md)
