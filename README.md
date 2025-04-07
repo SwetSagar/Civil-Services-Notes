@@ -515,7 +515,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [3.6 The Voice of free trade and Changing Character.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.6%20The%20Voice%20of%20free%20trade%20and%20Changing%20Character.md)  
 - [3.7 English Utilitarian and India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.7%20English%20Utilitarian%20and%20India.md)  
 - [3.8 Policies of Gov Generals.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/3.%20Early-Structure-of-the-Raj/3.8%20Policies%20of%20Gov%20Generals.md)  
-citeturn0view0
 
 #### 4. Economic‑Impact
 - [4.1 Permanent Settlement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.1%20Permanent%20Settlement.md)  
@@ -533,7 +532,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [4.13 Railroad and Communication Network.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.13%20Railroad%20and%20Communication%20Network.md)  
 - [4.14 Famine and Poverty in Rural Interior.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.14%20Famine%20and%20Poverty%20in%20Rural%20Interior.md)  
 - [4.15 European Business enterprise and its limitations.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/4.%20Economic-Impact/4.15%20European%20Business%20enterprise%20and%20its%20limitations.md)  
-citeturn1view0
 
 #### 5. Social‑Cultural‑Dev
 - [5.1 State of Indigenous education, its dislocation.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.1%20State%20of%20Indigenous%20education,%20its%20dislocation.md)  
@@ -544,7 +542,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [5.6 Progress of Science.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.6%20Progress%20of%20Science.md)  
 - [5.7 Christian Missionary Activities in India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/5.7%20Christian%20Missionary%20Activities%20in%20India.md)  
 - [NIS - Modern Architecture (Not Important for Optional).md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/5.%20Social-Cultural-Dev/NIS%20-%20Modern%20Architecture%20(Not%20Important%20for%20Optional).md)  
-citeturn2view0
 
 #### 6. Social‑Religious‑Reform‑in‑Bengal
 - [6.1 The Brahmo Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.1%20The%20Brahmo%20Movement.md)  
@@ -553,13 +550,11 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [6.4 Social Reform movements viz Sati,Widow Remarriage,Child Marriage etc..md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.4%20Social%20Reform%20movements%20viz%20Sati,Widow%20Remarriage,Child%20Marriage%20etc..md)  
 - [6.5 Contribution of Indian Renaissance to growth of Modern India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.5%20Contribution%20of%20Indian%20Renaissance%20to%20growth%20of%20Modern%20India.md)  
 - [6.6 Islamic Revivalism - Faraizi and Wahabi Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/6.%20Social-Religious-Reform-in-Bengal/6.6%20Islamic%20Revivalism%20-%20Faraizi%20and%20Wahabi%20Movement.md)  
-citeturn3view0
 
 #### 7. Indian‑Response
 - [7.8 The Great Revolt of 1857‑its Origin, character, causes and failure and its consequences..md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.8%20The%20Great%20Revolt%20of%201857-its%20Origin%2C%20character%2C%20causes%20and%20failure%20and%20its%20consequences..md)  
 - [7.9 Shift in character of Peasant move post 1857.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.9%20Shift%20in%20character%20of%20Peasant%20move%20post%201857.md)  
 - [7.10 Peasant‑Movement‑of‑1920s‑and‑1930s.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/7.%20Indian-Response/7.10%20Peasant-Movement-of-1920s-and-1930s.md)  
-citeturn4view0
 
 #### 8. Indian Nationalism factors
 - [8.1 Factors Leading to the Birth of Indian Nationalism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.1%20Factors%20Leading%20to%20the%20Birth%20of%20Indian%20Nationalism.md)  
@@ -572,7 +567,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 - [8.8 The partition of Bengal 1905.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.8%20The%20partition%20of%20Bengal%201905.md)  
 - [8.9 Swadeshi Movement.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.9%20Swadeshi%20Movement.md)  
 - [8.10 The beginning of Revolutionary Extremism in India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/8.%20Indian%20Nationalism%20factors/8.10%20The%20beginning%20of%20Revolutionary%20Extremism%20in%20India.md)  
-citeturn7view0
 
 #### 9. Rise‑of‑Gandhi
 - [9.1 Character of Gandhian Nationalism.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/9.%20Rise-of-Gandhi/9.1%20Character%20of%20Gandhian%20Nationalism.md)  
@@ -597,7 +591,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 #### 10. Constituional‑Dev_
 
 - [10.1 Constitutional Development between 1858-1935.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/10.%20Constituional-Dev_/10.1%20Constitutional%20Development%20between%201858-1935.md)  
-citeturn9view0
 
 #### 11. Other‑Strands‑Revolutionaries‑Left
 
@@ -628,7 +621,6 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 #### 14. Caste‑Ethnicity‑after‑1947
 - [14.1 Caste‑and‑Ethnicity‑after‑1947.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/14.%20Caste-Ethnicity-after-1947/14.1%20Caste-and-Ethnicity-after-1947.md)  
 - [14.2 Dalit‑Movements.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/14.%20Caste-Ethnicity-after-1947/14.2%20Dalit-Movements.md)  
-citeturn0view1
 
 #### 15. Economic‑Dev‑Political‑Change
 - [15.1 Economic Development and Political Change.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.1%20Economic%20Development%20and%20Political%20Change.md)  
