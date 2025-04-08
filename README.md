@@ -1,4 +1,4 @@
-# My Notes of UPSC Civil Services
+# My Notes for UPSC Civil Services
 
 These are the notes that I made while preparing for the UPSC Civil Services Exam. I had the opportunity to write 2 mains after having an air 233 in NDA in the past. Notes that have been made a comprehensive and contains General Studies and History Optional. They are being optimised for github and would be slowly be updated. Please do not fork for now. Thanks.
 
