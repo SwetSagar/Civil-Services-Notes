@@ -1,11 +1,10 @@
----
-uid: c740ff40f7c2de07882e67331e967457
----
-
 # Paper 1 Ancient and Medieval India
 
 29-11-2022 09:19
-#MainsPYQ #OptionalPYQ
+
+- [Paper 1 Ancient and Medieval India](#paper-1-ancient-and-medieval-india)
+	- [Part I Ancient India](#part-i-ancient-india)
+	- [Part II Medieval India](#part-ii-medieval-india)
 
 ---
 

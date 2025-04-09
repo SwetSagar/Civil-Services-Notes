@@ -1,11 +1,10 @@
----
-uid: f474a4832ae331f8dff2f8d4f810e688
----
-
 # Paper 2 Modern and World History
 
 01-12-2022 17:28
-#MainsPYQ #OptionalPYQ
+
+- [Paper 2 Modern and World History](#paper-2-modern-and-world-history)
+	- [Part 1 Modern History](#part-1-modern-history)
+	- [World History](#world-history)
 
 ---
 
