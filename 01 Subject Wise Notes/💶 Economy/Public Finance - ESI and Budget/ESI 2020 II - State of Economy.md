@@ -2,6 +2,17 @@
 
 2020-11-04 13:05:22
 
+- [Volume II - State of Economy](#volume-ii---state-of-economy)
+  - [Fiscal Developments](#fiscal-developments)
+  - [External Sector](#external-sector)
+  - [Monetary Management and Financial Intermediation](#monetary-management-and-financial-intermediation)
+  - [Price and Inflation](#price-and-inflation)
+  - [Sustainable Dev and Climate Change](#sustainable-dev-and-climate-change)
+  - [Agriculture and Food Mgt](#agriculture-and-food-mgt)
+  - [Industry and Infra](#industry-and-infra)
+    - [PMAY-U](#pmay-u)
+  - [Services Sector ESI 2020](#services-sector-esi-2020)
+  - [Social Infrastructure Employment and Human Development](#social-infrastructure-employment-and-human-development)
 
 ---
 

@@ -2,8 +2,17 @@ D# Inflation
 
 2020-06-09 18:57:50
 
-```toc
-```
+- [Types of Inflation](#types-of-inflation)
+	- [What Causes Inflation](#what-causes-inflation)
+		- [Various other Causes of Inflation is](#various-other-causes-of-inflation-is)
+- [How to Measure Inflation](#how-to-measure-inflation)
+	- [WPI](#wpi)
+	- [**CPI**](#cpi)
+	- [Producer Price Index](#producer-price-index)
+	- [Other Measures of Inflation](#other-measures-of-inflation)
+- [Impact of Inflation](#impact-of-inflation)
+- [Analysis of Inflation in India](#analysis-of-inflation-in-india)
+- [Definitions](#definitions)
 
 ---
 

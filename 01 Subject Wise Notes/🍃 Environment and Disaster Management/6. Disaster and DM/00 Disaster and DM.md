@@ -2,15 +2,39 @@
 
 2020-10-22 08:03:59
 
-```toc
-```
+- [Disaster and Disaster Management](#disaster-and-disaster-management)
+	- [Definitions](#definitions)
+	- [NDMA #Act 2005](#ndma-act-2005)
+		- [NDMA](#ndma)
+			- [At State Level](#at-state-level)
+			- [District](#district)
+			- [Fin Arrangement-](#fin-arrangement-)
+		- [Drawbacks](#drawbacks)
+	- [Other Policies Wrt DRR](#other-policies-wrt-drr)
+		- [National Policy on DM 2009](#national-policy-on-dm-2009)
+		- [ND Mgt Plan 2016](#nd-mgt-plan-2016)
+			- [Drawbacks](#drawbacks-1)
+		- [Sendai Framework 4 Priorities](#sendai-framework-4-priorities)
+		- [Dis Preparedness and Response](#dis-preparedness-and-response)
+		- [D Risk Governance - Sendai Framework](#d-risk-governance---sendai-framework)
+		- [Recovery and Build Back Better BBB](#recovery-and-build-back-better-bbb)
+			- [3 Recovery Stages](#3-recovery-stages)
+			- [Reconstruction - Rehabilitation both Physical and Psychological](#reconstruction---rehabilitation-both-physical-and-psychological)
+				- [Social Rehab](#social-rehab)
+				- [Economic Rehabilitation -](#economic-rehabilitation--)
+				- [Psychological Rehab](#psychological-rehab)
+	- [Capacity Dev through](#capacity-dev-through)
+	- [Hyogo Framework](#hyogo-framework)
+	- [Sendai Framework for DRR](#sendai-framework-for-drr)
+		- [7 Goals](#7-goals)
+
 
 ---
 
 ## Definitions
 
 - Disaster : - Natural or man-made, D Damage - quantifiable, D Impact -ve or +ve, D = hazard+ Vulnerability + Insufficient Capacity
- - Hazard : - dangerous threat, may cause loss of life, property ex earthquake, floods, volcanoes etc. D is an event, necessarily causes widespread damage
+- Hazard : - dangerous threat, may cause loss of life, property ex earthquake, floods, volcanoes etc. D is an event, necessarily causes widespread damage
 - Vulnerability - S, E, Physical, Env
 - Risk - measure of expected loss = Hazard * Vulnerability
 - Capacity - strengths, resources, attributes etc, coping capacity
@@ -91,9 +115,9 @@
 ### Sendai Framework 4 Priorities
 
 - Understand disaster risk,
-	- strengthen D risk governance to manage risk through interagency coordination;
-	- invest in resilience;
-	- Capacity Dev by enhancing D preparedness for effective response to Build Back Better in recovery, rehab, reconstruction
+ 	- strengthen D risk governance to manage risk through interagency coordination;
+ 	- invest in resilience;
+ 	- Capacity Dev by enhancing D preparedness for effective response to Build Back Better in recovery, rehab, reconstruction
 
 ### Dis Preparedness and Response
 
@@ -139,7 +163,7 @@
 - Capacity dev of local bodies - elected leaders and officials of panchayats org operations like search and rescue
 - Training communities - awareness, sensitisation, orientation, dev skills
 
-## Hyogo Framework :
+## Hyogo Framework
 
 - 5 priority actions are Ensure DRR; ID assess monitor; Use Knowledge, innovation and education; reduce underlying risk; Strengthen Disaster preparedness
 - Goal 1 - effective integration, prevention, mitigation, preparedness, vulnerability reduction - DM act, do no harm policy

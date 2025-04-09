@@ -2,6 +2,9 @@
 
 2020-06-09 19:09:54
 
+- [Budget 2020 Summary](#budget-2020-summary)
+- [Budget 2021 Summary](#budget-2021-summary)
+- [Budget 2022 Summary](#budget-2022-summary)
 
 ---
 
@@ -192,4 +195,4 @@
 
 # Budget 2022 Summary
 
-- [ ] #todo [[26-04-2022]]
+- [x] #todo [[26-04-2022]]

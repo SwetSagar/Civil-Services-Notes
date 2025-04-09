@@ -2,8 +2,18 @@
 
 2020-04-28 13:58:40
 
-```toc
-```
+- [Taxation in India](#taxation-in-india)
+	- [Direct and Indirect Taxes](#direct-and-indirect-taxes)
+	- [Methods of Taxation](#methods-of-taxation)
+	- [Measure Taken for Tax Reforms](#measure-taken-for-tax-reforms)
+		- [BEPS](#beps)
+		- [Double Taxation Avoidance Agreement DTAA](#double-taxation-avoidance-agreement-dtaa)
+		- [General Anti Avoidance Rule GAAR](#general-anti-avoidance-rule-gaar)
+		- [Transfer Pricing and Advanced Pricing Agreement APA](#transfer-pricing-and-advanced-pricing-agreement-apa)
+		- [GST](#gst)
+			- [Features of GST](#features-of-gst)
+			- [Steps Taken to Enhance Voluntary compliance](#steps-taken-to-enhance-voluntary-compliance)
+		- [Tax Related Terms](#tax-related-terms)
 
 ---
 

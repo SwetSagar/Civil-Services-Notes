@@ -2,8 +2,45 @@
 
 2020-06-09 18:55:52
 
-```toc
-```
+- [Banking System In India](#banking-system-in-india)
+	- [Reserve Bank of India](#reserve-bank-of-india)
+		- [Functions of RBI](#functions-of-rbi)
+	- [Different Types of Banks](#different-types-of-banks)
+		- [Commercial Banks](#commercial-banks)
+			- [Narsimhan Committee I Report 1991 :](#narsimhan-committee-i-report-1991-)
+				- [Narsimhan Committee II 1998 Report](#narsimhan-committee-ii-1998-report)
+			- [Types of Assets](#types-of-assets)
+				- [Various Steps that Could Be taken/were Taken to Clear NPAs Are :](#various-steps-that-could-be-takenwere-taken-to-clear-npas-are-)
+			- [SARFAESI Act](#sarfaesi-act)
+			- [ARCs](#arcs)
+			- [Prompt Corrective Action PCA](#prompt-corrective-action-pca)
+			- [Risks](#risks)
+			- [Capital Adequacy Ratio](#capital-adequacy-ratio)
+			- [Basel Norms](#basel-norms)
+				- [Stock of Money](#stock-of-money)
+			- [Insolvency and Bankruptcy Code IBC](#insolvency-and-bankruptcy-code-ibc)
+				- [Process of Insolvency](#process-of-insolvency)
+				- [Amendments Ot IBC](#amendments-ot-ibc)
+			- [Twin Balance Sheet TBS Problem](#twin-balance-sheet-tbs-problem)
+			- [PJ Nayak Committee](#pj-nayak-committee)
+			- [Indradhanush](#indradhanush)
+			- [Regional Rural Banks](#regional-rural-banks)
+		- [Small Finance Bank](#small-finance-bank)
+		- [Payment Banks](#payment-banks)
+			- [MUDRA Bank under PM Mudra Yojana](#mudra-bank-under-pm-mudra-yojana)
+		- [Cooperative Banks](#cooperative-banks)
+			- [Banking Regulation Amendment Act 2020^1](#banking-regulation-amendment-act-20201)
+	- [NBFCs](#nbfcs)
+		- [Deposit Taking](#deposit-taking)
+		- [Non Deposit Taking](#non-deposit-taking)
+		- [Other Details about NBFCs](#other-details-about-nbfcs)
+		- [NIDHI Companies](#nidhi-companies)
+		- [Chit Funds](#chit-funds)
+	- [Other Definitions and Concepts](#other-definitions-and-concepts)
+	- [Insurance in India](#insurance-in-india)
+		- [DICGC #body under RBI.](#dicgc-body-under-rbi)
+	- [Other Bodies, Challenges and Reforms](#other-bodies-challenges-and-reforms)
+
 
 ---
 

@@ -2,8 +2,40 @@
 
 2020-06-09 18:56:24
 
-```toc
-```
+- [External Sector in India](#external-sector-in-india)
+	- [Balance of Payments BOP](#balance-of-payments-bop)
+		- [Devaluation/Cheaper](#devaluationcheaper)
+		- [Convertibility of Rupees](#convertibility-of-rupees)
+			- [Tarapore Comm. 2006 on Full Ruppee Convertibility](#tarapore-comm-2006-on-full-ruppee-convertibility)
+		- [Current account Convertibility](#current-account-convertibility)
+		- [Capital account Convertibility](#capital-account-convertibility)
+			- [Tarapore Committee on CAC, 1997](#tarapore-committee-on-cac-1997)
+			- [Effects of Convertibility](#effects-of-convertibility)
+		- [Internationalisation of Rupee](#internationalisation-of-rupee)
+			- [Exchange Rate Depends upon :](#exchange-rate-depends-upon-)
+				- [Currency Mechanism](#currency-mechanism)
+			- [Steps Taken by RBI to Stabilise Rupee Fall :](#steps-taken-by-rbi-to-stabilise-rupee-fall-)
+		- [Forex](#forex)
+		- [Devaluation and Revaluation of Rupee](#devaluation-and-revaluation-of-rupee)
+			- [Effect of depreciated/devalued Rupee](#effect-of-depreciateddevalued-rupee)
+			- [Effect of Rupee Appreciation](#effect-of-rupee-appreciation)
+			- [Rupee Depreciation in 2018](#rupee-depreciation-in-2018)
+		- [Important Terms](#important-terms)
+	- [Foreign Trade](#foreign-trade)
+	- [India's EXIM Policy](#indias-exim-policy)
+	- [SEZ Objectives](#sez-objectives)
+	- [Foreign Trade Policy 2015-2020](#foreign-trade-policy-2015-2020)
+		- [Merchandise Exports :](#merchandise-exports-)
+			- [Service Sector Export Was $205bil in 2018](#service-sector-export-was-205bil-in-2018)
+				- [Steps to Improve](#steps-to-improve)
+		- [Merchandise Imports :](#merchandise-imports-)
+		- [Export Promotion Scheme](#export-promotion-scheme)
+	- [Institutional Infrastructure](#institutional-infrastructure)
+		- [Regional Free Trade Arrangements and India - Ex SAFTA, CECA, CEPA](#regional-free-trade-arrangements-and-india---ex-safta-ceca-cepa)
+		- [Comprehensive Economic Cooperation Agreement CECA and Comprehensive Economic Partnership Agreement CEPA](#comprehensive-economic-cooperation-agreement-ceca-and-comprehensive-economic-partnership-agreement-cepa)
+	- [Trade Finance](#trade-finance)
+	- [Non-Tariff Barriers](#non-tariff-barriers)
+	- [Regional Trade Agreements RTAs](#regional-trade-agreements-rtas)
 
 ---
 

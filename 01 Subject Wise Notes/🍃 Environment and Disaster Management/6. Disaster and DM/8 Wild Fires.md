@@ -2,8 +2,10 @@
 
 2020-11-10 11:16: 38
 
-```toc
-```   
+- [Wild Fires](#wild-fires)
+  - [Impact](#impact)
+  - [Mitigation](#mitigation)
+  - [Challenges](#challenges)
 
 ---
 

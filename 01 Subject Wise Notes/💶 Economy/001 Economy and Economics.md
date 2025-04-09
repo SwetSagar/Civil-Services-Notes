@@ -2,8 +2,18 @@
 
 2020-06-09 18:58:34
 
-```toc
-```
+- [Economy and Economics](#economy-and-economics)
+	- [Definition of Economy and Economics](#definition-of-economy-and-economics)
+	- [Branches of Economics](#branches-of-economics)
+		- [Structure of Economy](#structure-of-economy)
+	- [Types of Economies](#types-of-economies)
+	- [Measuring Economic Growth](#measuring-economic-growth)
+		- [GDP](#gdp)
+		- [GNP](#gnp)
+			- [GDP Deflator](#gdp-deflator)
+		- [Alternatives](#alternatives)
+			- [Human Development Index HDI](#human-development-index-hdi)
+	- [Prelims PYQ](#prelims-pyq)
 
 ---
 

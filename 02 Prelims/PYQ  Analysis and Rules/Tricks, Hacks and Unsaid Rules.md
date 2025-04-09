@@ -1,7 +1,3 @@
----
-uid: c9a09e5a334af020b5d7ae38f4ccf55f
----
-
 # Unsaid Rules, Tips and Tricks
 ==Comes secondary to knowledge, common sense/ logic and sometimes intuition.== 
 

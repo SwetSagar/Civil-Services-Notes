@@ -2,10 +2,44 @@
 
 2020-06-09 18:58: 14
 
----
-
-```toc
-```
+- [1 Fiscal System/ Public Finance in India](#1-fiscal-system-public-finance-in-india)
+	- [1.1 Fiscal Policy](#11-fiscal-policy)
+	- [1.2 Receipts](#12-receipts)
+		- [1.2.1 Revenue Receipts](#121-revenue-receipts)
+			- [1.2.1.1 Tax Revenue](#1211-tax-revenue)
+			- [1.2.1.2 Non Tax Revenue](#1212-non-tax-revenue)
+		- [1.2.2 Capital Receipts](#122-capital-receipts)
+			- [1.2.2.1 Non Debt Creating Capital Receipts](#1221-non-debt-creating-capital-receipts)
+			- [1.2.2.2 Debt Creating Capital Receipts](#1222-debt-creating-capital-receipts)
+	- [1.3 Expenditure](#13-expenditure)
+		- [1.3.1.1 Revenue account Expenditure](#1311-revenue-account-expenditure)
+		- [1.3.1.2 Capital Account Expenditure](#1312-capital-account-expenditure)
+		- [1.3.1.3 Plan and Non Plan Expenditure](#1313-plan-and-non-plan-expenditure)
+	- [1.4 Deficit](#14-deficit)
+		- [1.4.1 Fiscal Deficit](#141-fiscal-deficit)
+			- [1.4.1.1 Disadvantages of FD](#1411-disadvantages-of-fd)
+		- [1.4.2 Primary Deficit](#142-primary-deficit)
+		- [1.4.3 Revenue Deficit](#143-revenue-deficit)
+			- [1.4.3.1 Effective Revenue Deficit](#1431-effective-revenue-deficit)
+		- [1.4.4 Budget Deficit](#144-budget-deficit)
+		- [1.4.5 Monetised Deficit](#145-monetised-deficit)
+		- [1.4.6 Deficit Financing](#146-deficit-financing)
+	- [1.5 FRBM Act 2003](#15-frbm-act-2003)
+		- [1.5.1 NK Singh #Committee 2016 to Review FRBM](#151-nk-singh-committee-2016-to-review-frbm)
+	- [1.6 Debt](#16-debt)
+		- [1.6.1 Public Debt/ Internal Debt](#161-public-debt-internal-debt)
+			- [Public Debt of India](#public-debt-of-india)
+			- [Public Debt Management](#public-debt-management)
+		- [1.6.2 External Debt](#162-external-debt)
+			- [1.6.2.1 External Debt Mgt](#1621-external-debt-mgt)
+			- [1.6.2.2 Rupee Debt](#1622-rupee-debt)
+			- [1.6.2.3 Masala Bonds](#1623-masala-bonds)
+		- [1.6.3 Zero Base Budgeting](#163-zero-base-budgeting)
+		- [1.6.4 Ways and Means Advance WMA](#164-ways-and-means-advance-wma)
+			- [1.6.4.1 Normal WMAs](#1641-normal-wmas)
+			- [1.6.4.2 Special WMA](#1642-special-wma)
+	- [Direct Benefit Transfer](#direct-benefit-transfer)
+	- [1.7 Important Definitions](#17-important-definitions)
 
 ---
 

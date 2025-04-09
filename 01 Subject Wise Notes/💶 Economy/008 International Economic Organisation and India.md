@@ -2,8 +2,36 @@
 
 2020-06-09 18:56 :33
 
-```toc
-```
+- [1 WTO](#1-wto)
+	- [1.1.1 GATT](#111-gatt)
+	- [1.1.2 Foundational Principles of WTO](#112-foundational-principles-of-wto)
+	- [Previous Conferences and Their Outcomes](#previous-conferences-and-their-outcomes)
+		- [1.1.2.1 Agreement on Agriculture](#1121-agreement-on-agriculture)
+		- [1.1.2.2 General Agreement on Trade in Services GATS](#1122-general-agreement-on-trade-in-services-gats)
+		- [1.1.2.3 Bilateral Investment Treaty BIT](#1123-bilateral-investment-treaty-bit)
+		- [1.1.2.4 Rules of Origin ROO](#1124-rules-of-origin-roo)
+		- [1.1.2.5 Regional Trade Agreements](#1125-regional-trade-agreements)
+		- [1.1.2.6 Various Regional Trading Arrangements Are :](#1126-various-regional-trading-arrangements-are-)
+		- [1.1.2.7 India and WTO](#1127-india-and-wto)
+		- [1.1.2.8 Other Organisations](#1128-other-organisations)
+		- [1.1.2.9 Protectionism Types:](#1129-protectionism-types)
+		- [1.1.2.10 Threats to WTO :](#11210-threats-to-wto-)
+- [2 Bretton Woods : International Monetary Fund](#2-bretton-woods--international-monetary-fund)
+	- [2.1.1 IMF](#211-imf)
+		- [2.1.1.1 Criticism of IMF](#2111-criticism-of-imf)
+- [2.2 World Bank Group](#22-world-bank-group)
+	- [2.2.1 International Development Agency IDA](#221-international-development-agency-ida)
+	- [2.2.2 International Finance Corporation IFC](#222-international-finance-corporation-ifc)
+	- [2.2.3 MIGA Multilateral Investment Guarantee Agency-](#223-miga-multilateral-investment-guarantee-agency-)
+	- [2.2.4 International Centre for Settlement of Investment Disputes ICSID](#224-international-centre-for-settlement-of-investment-disputes-icsid)
+	- [2.2.5 International Bank for Reconstruction and Development IBRD](#225-international-bank-for-reconstruction-and-development-ibrd)
+	- [2.2.6 Changes Required Post-recession in WB and IMF](#226-changes-required-post-recession-in-wb-and-imf)
+- [3 Other Development Institutions](#3-other-development-institutions)
+	- [3.1 Asian Development Bank ADB](#31-asian-development-bank-adb)
+	- [3.2 OECD](#32-oecd)
+	- [3.3 New Development Bank NDB/ BRICS Bank](#33-new-development-bank-ndb-brics-bank)
+	- [3.4 Asian Infrastructure Investment Bank AIIB since 2016](#34-asian-infrastructure-investment-bank-aiib-since-2016)
+	- [3.5 EBRD European Bank for Reconstruction and Development](#35-ebrd-european-bank-for-reconstruction-and-development)
 
 ---
 

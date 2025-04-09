@@ -2,8 +2,39 @@
 
 2020-06-25 16:09:58
 
-```toc
-```
+- [Infrastructure](#infrastructure)
+	- [Railways](#railways)
+	- [Roads](#roads)
+	- [National Critical Information Infrastructure Protection Centre NCIIPC](#national-critical-information-infrastructure-protection-centre-nciipc)
+		- [Various Types of PPP Models](#various-types-of-ppp-models)
+			- [Build Operate Transfer Model BOT or Build Own Operate Transfer BOOT](#build-operate-transfer-model-bot-or-build-own-operate-transfer-boot)
+			- [VBOT : Variable - Build Operate and Transfer](#vbot--variable---build-operate-and-transfer)
+			- [Hybrid Annuity Model (HAM)](#hybrid-annuity-model-ham)
+			- [Toll Operate Transfer (TOT)](#toll-operate-transfer-tot)
+			- [Swiss Challenge](#swiss-challenge)
+			- [Take out Financing](#take-out-financing)
+			- [Plug and Play Model](#plug-and-play-model)
+			- [Infrastructure Debt Fund IDF](#infrastructure-debt-fund-idf)
+			- [Design-Build/ Engineering, Procurement, Construction EPC/ Turnkey](#design-build-engineering-procurement-construction-epc-turnkey)
+			- [Lease -](#lease--)
+			- [Suitability and Selection of Model](#suitability-and-selection-of-model)
+			- [PPP in Various Sectors](#ppp-in-various-sectors)
+	- [Logistics Sector](#logistics-sector)
+	- [Housing Sector](#housing-sector)
+	- [Services Sector](#services-sector)
+		- [Sub-sectoral Growth](#sub-sectoral-growth)
+	- [Public Sector](#public-sector)
+	- [Public Sector Undertakings PSUs](#public-sector-undertakings-psus)
+		- [Various Forms of PSUs](#various-forms-of-psus)
+			- [Imp of CPSEs](#imp-of-cpses)
+		- [Disinvestment](#disinvestment)
+			- [Various Methods of Disinvestment](#various-methods-of-disinvestment)
+			- [**Proceeds Of Disinvestment**](#proceeds-of-disinvestment)
+				- [DIPAM : Department of Investment and Public Asset Management DIPAM](#dipam--department-of-investment-and-public-asset-management-dipam)
+		- [Maharatnas](#maharatnas)
+			- [**Arjun Sengupta** #committee](#arjun-sengupta-committee)
+		- [Sectoral Concerns of PSUs](#sectoral-concerns-of-psus)
+	- [Prelims PYQ Industry and Trade](#prelims-pyq-industry-and-trade)
 
 ---
 

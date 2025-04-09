@@ -2,8 +2,31 @@
 
 2020-06-25 16:11:32
 
-```toc
-```
+- [Indian Agriculture](#indian-agriculture)
+	- [Land Reforms](#land-reforms)
+		- [First Phase](#first-phase)
+		- [Second Phase](#second-phase)
+	- [Green Revolution](#green-revolution)
+	- [Challenge in Agriculture](#challenge-in-agriculture)
+	- [Concerns](#concerns)
+	- [Need for Improvement](#need-for-improvement)
+		- [Areas Gov is Focusing to Improve Capital Formation](#areas-gov-is-focusing-to-improve-capital-formation)
+	- [Water Management and Irrigation](#water-management-and-irrigation)
+		- [Drought](#drought)
+		- [Rainfed Agriculture](#rainfed-agriculture)
+		- [NDRF/SDRF - National/State Disaster Response Fund](#ndrfsdrf---nationalstate-disaster-response-fund)
+		- [Irrigation](#irrigation)
+		- [Soil](#soil)
+		- [Agricultural Extension](#agricultural-extension)
+	- [Rural and Agricultural Credit](#rural-and-agricultural-credit)
+	- [**Precision** Agriculture](#precision-agriculture)
+	- [Animal Rearing](#animal-rearing)
+	- [Food Management](#food-management)
+		- [Agriculture Marketing](#agriculture-marketing)
+	- [Upstream, Downstream, Midstream](#upstream-downstream-midstream)
+	- [Supply Chain Management](#supply-chain-management)
+	- [Other Concepts](#other-concepts)
+	- [Prelims PYQ](#prelims-pyq)
 
 ---
 
@@ -14,8 +37,8 @@
 - 1% inc in agricultural growth results in 0.5% inc in industrial output and 0.7% inc in national income of India.
 - 66.1% of cropped area still depends on Monsoon for irrigation.
 - Consumers of low priced and middle priced consumer goods
-    - Maintains food security
-    - Change has a multiplier effect in the economy
+  - Maintains food security
+  - Change has a multiplier effect in the economy
 - Agricultural production
 
 ![[4.1 Agriculture#Types of Crops]]
@@ -31,24 +54,24 @@
 ### First Phase
 
 - Commenced just after Independence and had the objective of removing institutional discrepancies of agriculture ex size of landholdings, land ownership, land inheritance, tenancy reforms etc.
-	- Other objectives to achieve socio-economic equality since land ownership was intertwined with caste system.
-	- increasing agriculture production was the 3rd objective
+ 	- Other objectives to achieve socio-economic equality since land ownership was intertwined with caste system.
+ 	- increasing agriculture production was the 3rd objective
 
 **Steps taken**
 
 - Abolition of Intermediaries ex Zamindari, Mahalwari and Ryotwari..
 - Tenancy Reforms ie regulation of rent to be paid by share croppers to land owners, security of tenure to share cropper to secure his future income, ownership rights to tenants so that the landless can have access to land.
 - Reorganisation of agriculture
-	- redistribution of land after passing the ceiling laws
-	- consolidation of lands for Green revolution to succeed.
-	- Cooperative farming
+ 	- redistribution of land after passing the ceiling laws
+ 	- consolidation of lands for Green revolution to succeed.
+ 	- Cooperative farming
 - Reasons for failure : Land was considered symbol of social prestige, status and identity. Lack of political will and rampant corruption.
 
 ### Second Phase
 
 - Started since the economic reforms and engaged in issues like land acquisition, leasing, food related issues and agricultural provisions of WTO.
-	- the policy focused on mapping land and assigning title; Devising fair but speedy process of land acquisition;
-	- transparent and effective land leasing policy.
+ 	- the policy focused on mapping land and assigning title; Devising fair but speedy process of land acquisition;
+ 	- transparent and effective land leasing policy.
 - Digital India Land Record scheme DILRMP is being run as central sector scheme to give out conclusive title for land rights.
 - Leasing has become a better choice for farmers, Corporate farming has not grown in India on a big scale. Thus giving primacy to leasing instead of transfering ownership seems to be the right way.
 - Certain steps taken in this direction was the Model land leasing law that was advised by NITI Aayog.
@@ -77,7 +100,7 @@
 
 ![[4.1 Agriculture#Cropping Patterns]]
 
-## Challenge in Agriculture :
+## Challenge in Agriculture
 
 - A national agriculture market is missing mostly due to lack of political will among states to put up the right kind of APMC.
 - Need to promote corporate investment esp for farm mechanisation.
@@ -105,6 +128,7 @@
     - Dec in farm size, problem of land leasing laws
     - Inadequate relief during natural disasters
     - Harness NE regions potential
+
 - Capital formation helps in :Sustainable production, Tech and Infra, ensure food security, makes it profitable
 
 ### Areas Gov is Focusing to Improve Capital Formation
@@ -115,7 +139,7 @@
 - Setting up Knowledge centre in every village, create new growth poles
 - PM Gram Sadak Yojana, Nutrient based fertilizer regime
 
-## Water Management and Irrigation :
+## Water Management and Irrigation
 
 - **Participatory Irrigation Management** PIM ensures water equitability and ensures tail enders get their fair share
 - PIM are democratically organised association that collect water charges, collect etc.
@@ -134,8 +158,8 @@
 - mostly conc in arid and semi-arid areas, Account for more than 68% of sown area.
 - Dryland has rainfall 75cm and more than 30% under irrigation.
 - National Rainfed Area Authority NRAA :
-	- To improve productivity of non-irrigated agricultural land, rural agri, water resources and environment
-	- Build synergy, prepare plan
+ 	- To improve productivity of non-irrigated agricultural land, rural agri, water resources and environment
+ 	- Build synergy, prepare plan
 
 ### NDRF/SDRF - National/State Disaster Response Fund
 
@@ -147,11 +171,11 @@
 - Were classified by Planning Commission as *Major Irrigation scheme* covering cultivable area of more than 10,000 hectares; *Medium Irrigation scheme* b/w 2000-10000 hectares and *Minor below 2000 hectare*
 - The ultimate irrigation potential of India is about 140 million hectares and a substantial gap b/w Irrigation Potential Created and Irrigation Potential Utilised.
 - **Irrigation efficiency** : Older irrigation system has become univable due to shrotage of water, wastage of water and salination of soil.
-	- Drip and Sprinkler irrigation can improve water use efficiency, reduce cost of production, can irrigate mroe area.
+ 	- Drip and Sprinkler irrigation can improve water use efficiency, reduce cost of production, can irrigate mroe area.
 - Programs launched to improve irrigation efficiency
-	- Micro Irrigation Fund MIF - Under NABARD, 5000 cr allocation to boost farmers income
-	- Long Term Irrigation Fund LTIF - under NABARD corpus of 20,000 cr
-	- PM Krishy Sinchayee Yojana and Per Drop more Crop.
+ 	- Micro Irrigation Fund MIF - Under NABARD, 5000 cr allocation to boost farmers income
+ 	- Long Term Irrigation Fund LTIF - under NABARD corpus of 20,000 cr
+ 	- PM Krishy Sinchayee Yojana and Per Drop more Crop.
 - World Meteorological Organisation WMO
 
 ![[2.2 Major Crops, Irrigation#Static Diff types of irrigation and irrigation systems storage]]
@@ -162,10 +186,10 @@
 
 - Soil Health : Soil Health Cards, Organic fertilizers, nutrient based fertilizer subsidy
 - Soil Reclamation :
-    - Through watershed dev
-    - Saline and sodic land needs treatment
-    - Acidic land needs treatment using waste from industry
-    - Sulphur deficiency, organic matter def, inadequate manuring and composting
+  - Through watershed dev
+  - Saline and sodic land needs treatment
+  - Acidic land needs treatment using waste from industry
+  - Sulphur deficiency, organic matter def, inadequate manuring and composting
 - ZBNF -
 
 ### Agricultural Extension
@@ -177,7 +201,7 @@
 - Agribusiness centre provides paid services
 - Small Farmers Agribusiness Consortium SFAC - provides risk capital
 
-## Rural and Agricultural Credit :
+## Rural and Agricultural Credit
 
 **Agri Credit** : Helps farmers to enhance productivity through investments in machinery, HVY seeds etc.
 Concerns regarding it :
@@ -240,12 +264,12 @@ Concerns regarding it :
 - **24 major agri** commodities, farmers sell to FCI.
 - Procurement price during harvesting takes inflation into account.
 - It takes into account
-	- Cost of production, Price parity,
-	- changes in Input prices, demand and supply.
+ 	- Cost of production, Price parity,
+ 	- changes in Input prices, demand and supply.
 - Criticism
-	- Need diversification from Rice and Wheat
-	- Helps big farmers, subsidy burden increasing
-	- Changing food habits towards protein
+ 	- Need diversification from Rice and Wheat
+ 	- Helps big farmers, subsidy burden increasing
+ 	- Changing food habits towards protein
 - **MS Swaminathan** #committee headed the National commission on Farmers.
 
 **Market Intervention Scheme**
@@ -301,12 +325,12 @@ Concerns regarding it :
 - Act notifies agricultural commodities produced in region such as cereals, pulses, edible oilseed, fruits, chicken, goat, sheep, sugar etc.
 - Such markets have places for auctions, weigh bridges, godowns, shops for retailers, canteens, roads etc.
 - Major issues are :
-	- charging market fees from buyers and licensing fees from intermediaries.
-	- comission fees for agents which is very high and is charged on the entire value of the produce sold.
-	- high taxes at first level of trading has significant cascadin effects on commodity price.
-	- APMC is an arm of the state and market fees are taxes and has very little scope for price discovery
-	- Its operations are independent of scrutiny
-	- important positions at market committees and market board are held by politically influential people which makes them prone to corruption.
+ 	- charging market fees from buyers and licensing fees from intermediaries.
+ 	- comission fees for agents which is very high and is charged on the entire value of the produce sold.
+ 	- high taxes at first level of trading has significant cascadin effects on commodity price.
+ 	- APMC is an arm of the state and market fees are taxes and has very little scope for price discovery
+ 	- Its operations are independent of scrutiny
+ 	- important positions at market committees and market board are held by politically influential people which makes them prone to corruption.
 
 **Model APMC Act 2003**
 
@@ -355,17 +379,17 @@ FDI in upstream, downstream, supply chain management to get international experi
 ## Other Concepts
 
 **Farm Mechanisation** : to reduce drudgery, save time and labour, inc productivity, minimise wastage.
-	- India has more rural-urban migration, shift from agri to services etc
-	- high proportion of female workforce it will enhance their safety and comfort.
-	- quick rotation of crops will inc yields.
-	- small holdings, access to power, credit cost and procedures, uninsured markets etc are reasons for low farm mechanisation.
+ - India has more rural-urban migration, shift from agri to services etc
+ - high proportion of female workforce it will enhance their safety and comfort.
+ - quick rotation of crops will inc yields.
+ - small holdings, access to power, credit cost and procedures, uninsured markets etc are reasons for low farm mechanisation.
 
 **Seed Development** : Quality of seed account for 20-25% of productivity
 Challenges to adoption of quality seeds are :
-	- Inadequate research inputs
-	- Early ripening and resistant varieties
-	- High cost of seeds
-	- shortage in supply of quality seeds
+ - Inadequate research inputs
+ - Early ripening and resistant varieties
+ - High cost of seeds
+ - shortage in supply of quality seeds
 Affordability, Availability, R&D, GM crops and seeds require immediate attention.
 
 **Feritiliser** :

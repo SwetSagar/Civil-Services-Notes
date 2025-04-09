@@ -2,8 +2,32 @@
 
 2020-06-09 18:58:27
 
-```toc
-```
+- [Economic Planning and Planning in India](#economic-planning-and-planning-in-india)
+	- [Planned Economy](#planned-economy)
+	- [Types of Planning](#types-of-planning)
+	- [Pre Independence Economic Planning](#pre-independence-economic-planning)
+	- [Post Independence Economic Planning : 5 Year Plans](#post-independence-economic-planning--5-year-plans)
+		- [Planning Commission :](#planning-commission-)
+	- [Central Planning](#central-planning)
+		- [5 Year Plans](#5-year-plans)
+		- [Twenty Point Programme and MPLADS](#twenty-point-programme-and-mplads)
+		- [Multi Level Planning](#multi-level-planning)
+	- [Decentralised Planning](#decentralised-planning)
+	- [Assessment of Planning](#assessment-of-planning)
+	- [Economic Reforms](#economic-reforms)
+	- [Inclusive Growth](#inclusive-growth)
+	- [Resource Mobilisation](#resource-mobilisation)
+		- [Investment Models](#investment-models)
+		- [\[\[Static - Statutory, Regulatory, Various Quasi Judicial Bodies#NITI Aayog |NITI Aayog\]\]](#static---statutory-regulatory-various-quasi-judicial-bodiesniti-aayog-niti-aayog)
+			- [Full time Framework](#full-time-framework)
+			- [Aims :](#aims-)
+			- [Criticism](#criticism)
+			- [Achievements](#achievements)
+				- [Reforms in Agriculture](#reforms-in-agriculture)
+	- [Reforms in India](#reforms-in-india)
+		- [Reform Measures](#reform-measures)
+		- [Generation of Economic Reforms](#generation-of-economic-reforms)
+
 
 ---
 

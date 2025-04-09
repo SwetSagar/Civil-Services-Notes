@@ -2,8 +2,37 @@
 
 2020-06-09 18:58:02
 
-```toc
-```
+- [Monetary and Credit Policy](#monetary-and-credit-policy)
+	- [Monetary Policy](#monetary-policy)
+		- [Monetary Policy Committee MPC](#monetary-policy-committee-mpc)
+		- [Instruments of Monetary Policy - Quantitative and Qualitative Tools](#instruments-of-monetary-policy---quantitative-and-qualitative-tools)
+			- [1. Repo](#1-repo)
+			- [2. Reverse Repo](#2-reverse-repo)
+			- [3. Statutory Liquidity Ratio SLR](#3-statutory-liquidity-ratio-slr)
+			- [4.Cash Reserve Ratio CRR](#4cash-reserve-ratio-crr)
+			- [5. Marginal Standing Facility MSF](#5-marginal-standing-facility-msf)
+			- [6. Call Money Market^1](#6-call-money-market1)
+			- [7. Liquidity Adjustment Facility LAF](#7-liquidity-adjustment-facility-laf)
+			- [8. Uniform External Benchmark](#8-uniform-external-benchmark)
+			- [9. LCR Liquidity Coverage Ratio LCR](#9-lcr-liquidity-coverage-ratio-lcr)
+			- [10. Incremental CRR](#10-incremental-crr)
+			- [11. Standing Deposit Facility SDFS](#11-standing-deposit-facility-sdfs)
+			- [12. OMO](#12-omo)
+			- [Qualitative Tool Aka Selective Credit Control](#qualitative-tool-aka-selective-credit-control)
+		- [Other Definitions](#other-definitions)
+			- [Base Rate](#base-rate)
+			- [Market Stabilisation Bonds](#market-stabilisation-bonds)
+			- [Interest Rate and Their Importance](#interest-rate-and-their-importance)
+			- [Inflation Targeting](#inflation-targeting)
+			- [Liquidity Trap :](#liquidity-trap-)
+			- [Quantitative Easing](#quantitative-easing)
+			- [Taper Tantrum](#taper-tantrum)
+		- [Financial Dev and Stability Council FSDC](#financial-dev-and-stability-council-fsdc)
+		- [Financial Stability Board FSB](#financial-stability-board-fsb)
+		- [Monetary Transmission](#monetary-transmission)
+		- [Trends in Monetary Policy Management](#trends-in-monetary-policy-management)
+	- [Prelims PYQ](#prelims-pyq)
+
 
 ---
 

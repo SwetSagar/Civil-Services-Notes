@@ -6,6 +6,7 @@ These are the notes that I made while preparing for the UPSC Civil Services Exam
 
 Subject Notes here contains Geography, Environmental Studies, Economy and Essay. They are made with respect to their reference material and not syllabus wise. They are static in nature and not being correlated with current affairs.
 
+
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
 
 Sources referred for this were : Geography NCERT for XI and XII and GC Leong.

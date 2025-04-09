@@ -2,8 +2,10 @@
 
 Created : 2022-02-25 08:40
 
-```toc
-```
+- [Animal Kingdom](#animal-kingdom)
+- [Vertebrata](#vertebrata)
+- [Structural Organisation in Plants and Animals](#structural-organisation-in-plants-and-animals)
+- [DNA, RNA Etc.](#dna-rna-etc)
 
 ---
 - Basis of classification could be cell arrangement, body symmetry, nature of coelom etc.

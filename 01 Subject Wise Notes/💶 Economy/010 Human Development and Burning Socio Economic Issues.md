@@ -2,8 +2,22 @@
 
 2020-06-09 18:57:21
 
-```toc
-```
+- [1 Human Development and Burning Socio-Economic Issues](#1-human-development-and-burning-socio-economic-issues)
+  - [1.1 Poverty Concepts](#11-poverty-concepts)
+    - [1.1.1 Poverty line](#111-poverty-line)
+      - [1.1.1.1 NC Saxena Committee 2008](#1111-nc-saxena-committee-2008)
+      - [1.1.1.2 SR Hashim Committee 2010](#1112-sr-hashim-committee-2010)
+      - [1.1.1.3 Pronab Sen Committee 2010 for Slum Census](#1113-pronab-sen-committee-2010-for-slum-census)
+      - [1.1.1.4 Rangarajan Committee](#1114-rangarajan-committee)
+    - [1.1.2 Millennium Development Goal MDGs](#112-millennium-development-goal-mdgs)
+    - [1.1.3 SDGs](#113-sdgs)
+    - [1.1.4 UBI Universal Basic Income](#114-ubi-universal-basic-income)
+  - [1.2 Economic Inequality](#12-economic-inequality)
+    - [1.2.1 Measures of Inequality](#121-measures-of-inequality)
+    - [1.2.2 Balanced Regional Development BRD and Inclusive Growth](#122-balanced-regional-development-brd-and-inclusive-growth)
+    - [1.2.3 Reasons for Inequality](#123-reasons-for-inequality)
+    - [1.2.4 Inclusive Growth](#124-inclusive-growth)
+      - [1.2.4.1 Social Security](#1241-social-security)
 
 ---
 
