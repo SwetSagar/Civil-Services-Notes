@@ -4,17 +4,13 @@ These are the notes that I made while preparing for the `UPSC Civil Services Exa
 
 They are being optimised for github and would slowly be updated. **Please do not fork for now**. They are `supposed to be an open source base` for future candidates to take a leaf out of. Thanks.
 
-## Subject Notes and General Studies
+## Subject Notes and General Studies syllabus wise notes.
 
 - Subject Notes here contains Geography, Environmental Studies, Economy and Essay.
 - They are made with respect to their reference material and not syllabus wise.
 - They are static in nature and have not been correlated with current affairs.
 
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
-
-Sources : 
-1. Geography NCERT for XI and XII and
-2. Certificate Physical and Human Geography, GC Leong.
 
 - [Earth](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.1%20Earth.md)
 - [Landforms](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.2%20Landforms.md)
@@ -27,12 +23,11 @@ Sources :
 - [Petroleum, Mineral Oil and Natural Gas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.3%20Petroleum%20Mineral%20Oil%20and%20Natural%20Gas.md)
 - [Human Geography and Crops](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/3.%20Economic%20Geography%20and%20Location%20of%20Industries/3.5%20Human%20Geography%20Crops.md)
 
+Sources : 
+1. Geography NCERT for XI and XII and
+2. Certificate Physical and Human Geography, GC Leong.
 
 ### Environment and Disaster Management
-
-Sources : 
-1. Shankar IAS Environment book
-2. The Internet
 
 #### Environment and Ecology 
 
@@ -71,17 +66,15 @@ Sources :
 - [International Environmental Conventions Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.4%20International%20Environmental%20Conventions%20Organisations.md)
 - [Environmental Issues and Health Effects](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/5.%20Acts%2C%20Orgs%2C%20Convention%2C%20Env%20Issues/5.5%20Environmental%20Issues%20and%20Health%20Effects.md)
 
+Sources : 
+1. Shankar IAS Environment book
+2. The Internet
+
 ### Art and Culture 
 
 - [Art and Culture NCERT and CCRT](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8E%A8%20Art%20and%20Culture%20Static%20Notes/Art%20and%20Culture%20NCERT%20and%20CCRT.md)
 
 ### Economy
-
-Sources : 
-1. Indian Economy by Ramesh Singh.
-2. SRI RAM IAS Economy by SriRAM IAS.
-3. Economic Survey of India 2021, 2022, 2023.
-4. Budget of India 2021, 2022, 2023.
 
 - [Budget Summaries](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/Budget%20Summaries.md)
 - [ESI - 2021](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/ESI%20-%202021.md)
@@ -99,14 +92,20 @@ Sources :
 - [Human Development and Burning Socio Economic Issues](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/010%20Human%20Development%20and%20Burning%20Socio%20Economic%20Issues.md)
 - [Indian Agriculture and Food Management](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/011%20Indian%20Agriculture%20and%20Food%20Management.md)
 
-### Science and Technology
-
 Sources : 
-1. Science NCERTs for 11th and 12th standard.
+1. Indian Economy by Ramesh Singh.
+2. SRI RAM IAS Economy by SriRAM IAS.
+3. Economic Survey of India 2021, 2022, 2023.
+4. Budget of India 2021, 2022, 2023.
+
+### Science and Technology
 
 - [Biology](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Biology.md)
 - [Chemistry](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Chemistry.md)
 - [Prelims PYQ](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Prelims%20PYQ.md)
+
+Sources : 
+1. Science NCERTs for 11th and 12th standard.
 
 ### Prelims PYQ Analysis
 
@@ -124,19 +123,15 @@ Sources :
 
 ### Essay
 
-Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Essay material, the Internet.
-
 - [Important Topics Content, Intro, Conclusion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/1%20Important%20Topics%20Content,%20Intro,%20Conclusion.md)
 - [Philosophical Quotes and Content](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/2.%20Philosophical%20Quotes%20and%20Content.md)
 - [Quotes Topic Wise](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/3.%20Quotes%20Topic%20Wise.md)
 - [Things to keep in Mind](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/4.%20Things%20to%20keep%20in%20Mind.md)
 - [PYQs](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/03%20Essay/5.%20PYQs.md)
 
-### General Studies 1
+Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Essay material, the Internet.
 
-1. Notes made here are syllabus wise and are Current affairs related from April 2019 onwards.
-2. Since 2023 onwards I had moved to PT365.
-3. Source : InsightsonIndia Current Affairs.
+### General Studies 1
 
 #### History and Culture
 
@@ -156,10 +151,11 @@ Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Ess
 - [Role of Women and Women's organization, population and other associated Issues, poverty and development issues, Urbanization, their problems](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/04%20GS-1/3%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6%20Society/3.2%20Role%20of%20Women%20and%20Women's%20organisation,%20population%20and%20other%20associated%20Issues,%20poverty%20and%20development%20issues,%20Urbanization,%20their%20problems.md)
 - [Communalism, Regionalism, Secularism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/04%20GS-1/3%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6%20Society/3.3%20Communalism,%20Regionalism,%20Secularism.md)
 
-### General Studies 2
+1. Notes made here are syllabus wise and are Current affairs related from April 2019 onwards.
+2. Since 2023 onwards I had moved to PT365.
+3. Source : InsightsonIndia Current Affairs.
 
-1. April 2019 onwards : Since 2023 onwards I had moved to PT365. 
-2. Source : InsightsonIndia Current Affairs.
+### General Studies 2
 
 #### Polity
 
@@ -190,10 +186,10 @@ Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Ess
 - [International Bodies, their structure, mandate](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/05%20GS-2/4.%20International%20Relations/4.3%20International%20Bodies,%20their%20structure,%20mandate%20etc.md)
 - [Effects of Foreign Countries Policies](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/05%20GS-2/4.%20International%20Relations/4.4%20Effects%20of%20Foreign%20Countries%20Policies.md)
 
-### General Studies 3
-
-1. April 2019 onwards : Since 2023 I had moved to PT365.
+1. April 2019 onwards : Since 2023 onwards I had moved to PT365. 
 2. Source : InsightsonIndia Current Affairs.
+
+### General Studies 3
    
 #### Economy
 
@@ -224,9 +220,10 @@ Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Ess
 - [Security challenges and their management in border areas, Cyber Security, Money Laundering](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.2%20Security%20challenges%20and%20their%20management%20in%20border%20areas,%20Cyber%20Security,%20Money%20Laundering.md)
 - [Various security forces and Agencies and their mandate; Linkages of Organised Crime with Terrorism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.3%20Various%20security%20forces%20and%20Agencies%20and%20their%20mandate;%20Linkages%20of%20Organised%20Crime%20with%20Terrorism.md)
 
-### General Studies 4
+1. April 2019 onwards : Since 2023 I had moved to PT365.
+2. Source : InsightsonIndia Current Affairs.
 
-Notes are made according to syllabus. Materials used were Ethics and Aptitude by Lexicon publications, ChatGPT for answers to the questions. Notes from other sources like Lukmaan IAS, Ethics book by Mudit Jain are better than Lexicon. 
+### General Studies 4 
 
 #### Human Interface and Ethics in Public Relations
 
@@ -287,19 +284,11 @@ Notes are made according to syllabus. Materials used were Ethics and Aptitude by
 - [Utilisation of Public funds, Challenges of Corruption](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/07%20GS-4/7.%20Information-sharing-and-transparency-in-govt,-RTI,-Code-of-Ethics,-Codes-of-Conduct,-Citizens-Charters,-Work-Culture,-Quality-of-service-Delivery/7.2%20Utilisation%20of%20Public%20funds,%20Challenges%20of%20Corruption.md)
 - [PYQ](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/07%20GS-4/7.%20Information-sharing-and-transparency-in-govt,-RTI,-Code-of-Ethics,-Codes-of-Conduct,-Citizens-Charters,-Work-Culture,-Quality-of-service-Delivery/PYQ.md)
 
+Notes are made according to syllabus. Materials used were Ethics and Aptitude by Lexicon publications, ChatGPT for answers to the questions. Notes from other sources like Lukmaan IAS, Ethics book by Mudit Jain are better than Lexicon
+
 ## History Optional
 
 ### Ancient History
-
-Sources : 
-  1. Old NCERT by RS Sharma.
-  2. A History of Ancient and Medieval India, Upinder Singh.
-  3. Ancient India History notes by Baliyan.
-  4. The Wonder that was India by A.L.Basham.
-  5. MA and BA notes from IGNOU.
-  6. History of Early India by Romila Thapar (selectively).
-  7. Answers generated by ChatGPT.
-  8. Mapping using Anki [decks](http://ankiweb.net/shared/info/403721131).
 
 #### Sources
 
@@ -429,17 +418,17 @@ Sources :
 - [11.23 Education-and-Literature-.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.23%20Education-and-Literature-.md)
 - [11.24 Economy and Society.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/11.%20Regional-States-during-Gupta-Era/11.24%20Economy%20and%20Society.md) 
 
+Sources : 
+  1. Old NCERT by RS Sharma.
+  2. A History of Ancient and Medieval India, Upinder Singh.
+  3. Ancient India History notes by Baliyan.
+  4. The Wonder that was India by A.L.Basham.
+  5. MA and BA notes from IGNOU.
+  6. History of Early India by Romila Thapar (selectively).
+  7. Answers generated by ChatGPT.
+  8. Mapping using Anki [decks](http://ankiweb.net/shared/info/403721131).
+
 ### Medieval India
-
-Source include : 
-
-1. Medieval India: From Sultanat to the Mughals by Satish Chandra.
-2. IGNOU MA and BA Notes.
-3. Old NCERT by Satish Chandra.
-4. New NCERTs (Themes in Indian History).
-5. J.L. Mehta Vol III.
-6. Baliyan's notes.
-7. Certain portion of Upinder Singh's book.
 
 #### Early 750-1200 AD
 
@@ -504,7 +493,6 @@ Source include :
 - [8.5 Theory of Sulh‑i‑Kul and Religious Policy.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.5%20Theory%20of%20Sulh-i-Kul%20and%20Religious%20Policy.md)  
 - [8.6 Court‑Patronage‑of‑Art‑and‑Technology.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/8.%20Akbar/8.6%20Court-Patronage-of-Art-and-Technology.md)  
 
-
 #### 9. Mughal‑Empire‑in‑17th‑Century
 - [9.1 Major Administrative Policies of Jahangir, Shahjahan and Aurangzeb.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.1%20Major%20Administrative%20Policies%20of%20Jahangir%2C%20Shahjahan%20and%20Aurangzeb.md)  
 - [9.2 The Empire and the Zamindars.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/9.%20Mughal-Empire-in-17th-Century/9.2%20The%20Empire%20and%20the%20Zamindars.md)  
@@ -545,17 +533,17 @@ Source include :
 - [12.5 Emergence of Afghan Power and Battle of Panipat 1761.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.5%20Emergence%20of%20Afghan%20Power%20and%20Battle%20of%20Panipat%201761.md)
 - [12.6 State of Politics, Culture and Economy on the eve of British Conquest.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.6%20State%20of%20Politics%2C%20Culture%20and%20Economy%20on%20the%20eve%20of%20British%20Conquest.md)
 
-### Modern History
+Source include : 
 
-Source : 
-1. A brief History of India, Spectrum publications by Rajiv Ahir.
-2. From Plassey to Partition by Sekhar Bandyopadhyay.
-3. Themes in Indian History (New NCERT).
-4. A new Look at Modern Indian History by B.L.Grover.
-5. IGNOU MA and BA material.
-6. India After Independence.
-7. Baliyan Modern India notes.
-8. The Internet.
+1. Medieval India: From Sultanat to the Mughals by Satish Chandra.
+2. IGNOU MA and BA Notes.
+3. Old NCERT by Satish Chandra.
+4. New NCERTs (Themes in Indian History).
+5. J.L. Mehta Vol III.
+6. Baliyan's notes.
+7. Certain portion of Upinder Singh's book.
+
+### Modern History
 
 #### [1. European-Penetration](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.3%20Modern-History/1.%20European-Penetration)
 
@@ -698,14 +686,17 @@ Source :
 - [15.5 Progress‑of‑Science.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.3%20Modern-History/15.%20Economic-Dev-Political-Change/15.5%20Progress-of-Science.md)  
 
 
+**Sources : **
+1. A brief History of India, Spectrum publications by Rajiv Ahir.
+2. From Plassey to Partition by Sekhar Bandyopadhyay.
+3. Themes in Indian History (New NCERT).
+4. A new Look at Modern Indian History by B.L.Grover.
+5. IGNOU MA and BA material.
+6. India After Independence.
+7. Baliyan Modern India notes.
+8. The Internet.
+
 ### World History
-
-Sources : 
-1. Norman Lowe.
-2. IGNOU MA and BA material.
-3. The Internet.
-4. Self Study History's notes.
-
 
 #### 1. Enlightenment Modern Ideas  
 - [1.1 Major Ideas of Enlightenment.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.1%20Major%20Ideas%20of%20Enlightenment.md)  
@@ -774,13 +765,19 @@ Sources :
 - [12.2 Political Change in Eastern Europe 1989 2001.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.2%20Political%20Change%20in%20Eastern%20Europe%201989%202001.md)  
 - [12.3 End‑of‑the‑Cold‑War‑and‑US‑ascendancy‑in‑the‑World‑as‑the‑lone‑superpower.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.3%20End-of-the-Cold-War-and-US-ascendancy-in-the-World-as-the-lone-superpower.md)  
 
-### 08.5 History Optional Recent PYQ Analysis
-
 Sources : 
-1. www.upsc.gov.in
-2. The Internet
+1. Norman Lowe.
+2. IGNOU MA and BA material.
+3. The Internet.
+4. Self Study History's notes.
+
+### 08.5 History Optional Recent PYQ Analysis
 
 - [2021 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%201%20History%20Optional%20Answers.md)  
 - [2021 Paper 2 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%202%20History%20Optional%20Answers.md)  
 - [2022 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2022%20Paper%201%20History%20Optional%20Answers.md)  
 - [2022 Paper 2 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2022%20Paper%202%20History%20Optional%20Answers.md)  
+
+Sources : 
+1. www.upsc.gov.in
+2. The Internet
