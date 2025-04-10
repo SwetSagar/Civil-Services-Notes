@@ -6,12 +6,14 @@ Please do not fork for now. They are `supposed to be an open source base` for fu
 ## Subject Notes and General Studies
 
 - Subject Notes here contains Geography, Environmental Studies, Economy and Essay.
-- They are made with respect to their reference material and not syllabus wise. They are static in nature and have not been correlated with current affairs.
-
+- They are made with respect to their reference material and not syllabus wise.
+- They are static in nature and have not been correlated with current affairs.
 
 ### Geography (Geomorphology, Indian Geography, Economic Geography)
 
-Sources referred for this were : Geography NCERT for XI and XII and GC Leong.
+Sources : 
+1. Geography NCERT for XI and XII and
+2. Certificate Physical and Human Geography, GC Leong.
 
 - [Earth](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.1%20Earth.md)
 - [Landforms](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8C%8F%20Geography%20Static%20Notes/1.%20Geomorphology%20and%20Climatology/1.2%20Landforms.md)
@@ -27,7 +29,9 @@ Sources referred for this were : Geography NCERT for XI and XII and GC Leong.
 
 ### Environment and Disaster Management
 
-Sources that were referred for this were : Shankar IAS and the Internet.
+Sources : 
+1. Shankar IAS Environment book
+2. The Internet
 
 #### Environment and Ecology 
 
@@ -72,7 +76,11 @@ Sources that were referred for this were : Shankar IAS and the Internet.
 
 ### Economy
 
-Sources that were referred for this were Indian Economy by Ramesh Singh, SRI RAM IAS Economy by SriRAM IAS, Economic Survey of India, Budget of India.
+Sources : 
+1. Indian Economy by Ramesh Singh.
+2. SRI RAM IAS Economy by SriRAM IAS.
+3. Economic Survey of India 2021, 2022, 2023.
+4. Budget of India 2021, 2022, 2023.
 
 - [Budget Summaries](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/Budget%20Summaries.md)
 - [ESI - 2021](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%92%B6%20Economy/Public%20Finance%20-%20ESI%20and%20Budget/ESI%20-%202021.md)
@@ -92,7 +100,8 @@ Sources that were referred for this were Indian Economy by Ramesh Singh, SRI RAM
 
 ### Science and Technology
 
-Sources referred for this were Science NCERT for 11th and 12th standard.
+Sources : 
+1. Science NCERTs for 11th and 12th standard.
 
 - [Biology](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Biology.md)
 - [Chemistry](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%A7%91%E2%80%8D%F0%9F%94%ACScience%20and%20Technology/Chemistry.md)
@@ -124,7 +133,9 @@ Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Ess
 
 ### General Studies 1
 
-Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
+1. Notes made here are syllabus wise and are Current affairs related from April 2019 onwards.
+2. Since 2023 onwards I had moved to PT365.
+3. Source : InsightsonIndia Current Affairs.
 
 #### History and Culture
 
@@ -146,7 +157,8 @@ Notes made here are syllabus wise and are Current affairs related from April 201
 
 ### General Studies 2
 
-Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
+1. April 2019 onwards : Since 2023 onwards I had moved to PT365. 
+2. Source : InsightsonIndia Current Affairs.
 
 #### Polity
 
@@ -179,8 +191,9 @@ Notes made here are syllabus wise and are Current affairs related from April 201
 
 ### General Studies 3
 
-Notes made here are syllabus wise and are Current affairs related from April 2019 onwards. Since 2023 onwards I had moved to PT365. Source that was referred here was from InsightsonIndia Current Affairs.
-
+1. April 2019 onwards : Since 2023 I had moved to PT365.
+2. Source : InsightsonIndia Current Affairs.
+   
 #### Economy
 
 - [Inclusive Growth and Budgeting](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/1.%20Economy/1.2%20Inclusive%20Growth%20and%20Budgeting.md)
@@ -277,9 +290,15 @@ Notes are made according to syllabus. Materials used were Ethics and Aptitude by
 
 ### Ancient History
 
-Sources referred to this were from : 
-  1. Old NCERT by RS Sharma
-  2. 
+Sources : 
+  1. Old NCERT by RS Sharma.
+  2. A History of Ancient and Medieval India, Upinder Singh.
+  3. Ancient India History notes by Baliyan.
+  4. The Wonder that was India by A.L.Basham.
+  5. MA and BA notes from IGNOU.
+  6. History of Early India by Romila Thapar (selectively).
+  7. Answers generated by ChatGPT.
+  8. Mapping using Anki [decks](http://ankiweb.net/shared/info/403721131).
 
 #### Sources
 
@@ -411,6 +430,16 @@ Sources referred to this were from :
 
 ### Medieval India
 
+Source include : 
+
+1. Medieval India: From Sultanat to the Mughals by Satish Chandra.
+2. IGNOU MA and BA Notes.
+3. Old NCERT by Satish Chandra.
+4. New NCERTs (Themes in Indian History).
+5. J.L. Mehta Vol III.
+6. Baliyan's notes.
+7. Certain portion of Upinder Singh's book.
+
 #### Early 750-1200 AD
 
 - [1.1 Major‑Political‑Development‑in‑Northern‑India.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/1.%20Early-750-1200-AD/1.1%20Major-Political-Development-in-Northern-India.md)
@@ -516,6 +545,16 @@ Sources referred to this were from :
 - [12.6 State of Politics, Culture and Economy on the eve of British Conquest.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.2%20Medieval-India/12.%2018th-Century/12.6%20State%20of%20Politics%2C%20Culture%20and%20Economy%20on%20the%20eve%20of%20British%20Conquest.md)
 
 ### Modern History
+
+Source : 
+1. A brief History of India, Spectrum publications by Rajiv Ahir.
+2. From Plassey to Partition by Sekhar Bandyopadhyay.
+3. Themes in Indian History (New NCERT).
+4. A new Look at Modern Indian History by B.L.Grover.
+5. IGNOU MA and BA material.
+6. India After Independence.
+7. Baliyan Modern India notes.
+8. The Internet.
 
 #### [1. European-Penetration](https://github.com/SwetSagar/Civil-Services-Notes/tree/main/08.3%20Modern-History/1.%20European-Penetration)
 
@@ -660,6 +699,13 @@ Sources referred to this were from :
 
 ### World History
 
+Sources : 
+1. Norman Lowe.
+2. IGNOU MA and BA material.
+3. The Internet.
+4. Self Study History's notes.
+
+
 #### 1. Enlightenment Modern Ideas  
 - [1.1 Major Ideas of Enlightenment.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.1%20Major%20Ideas%20of%20Enlightenment.md)  
 - [1.2 Spread of Enlightenment in the Colonies.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/1.%20Enlightenment%20Modern%20Ideas/1.2%20Spread%20of%20Enlightenment%20in%20the%20Colonies.md)  
@@ -728,6 +774,11 @@ Sources referred to this were from :
 - [12.3 End‑of‑the‑Cold‑War‑and‑US‑ascendancy‑in‑the‑World‑as‑the‑lone‑superpower.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.4%20World-History/12.%20Disintegration-of-USSR-Unipolar-World/12.3%20End-of-the-Cold-War-and-US-ascendancy-in-the-World-as-the-lone-superpower.md)  
 
 ### 08.5 History Optional Recent PYQ Analysis
+
+Sources : 
+1. www.upsc.gov.in
+2. The Internet
+
 - [2021 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%201%20History%20Optional%20Answers.md)  
 - [2021 Paper 2 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2021%20Paper%202%20History%20Optional%20Answers.md)  
 - [2022 Paper 1 History Optional Answers.md](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.5%20History%20Optional%20Recent%20PYQ%20Analysis/2022%20Paper%201%20History%20Optional%20Answers.md)  
