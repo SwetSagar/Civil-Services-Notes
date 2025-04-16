@@ -366,7 +366,7 @@ Notes are made according to syllabus. Materials used were Ethics and Aptitude by
 
 - [9.1 Kharavelas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.1%20Kharavelas.md)
 - [9.2 Satvahanas](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.2%20Satvahanas.md)
-- [9.3 Tamil States of Sangam Age](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.3%20Tamil%20States%20of%20Sangam%20Age.md)
+- [9.3 Tamil States of Sangam Age](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/08.1%20Ancient-History/9.%20Early-State-and-Society-in-East-Deccan-South/9.3%20Tamil%20Sates%20of%20Sangam%20Age.md)
 
 #### Early State and Society in the East, Deccan and the South
 
