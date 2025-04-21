@@ -50,11 +50,11 @@ Sources :
 - [Conservation Efforts](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/2.%20Biodiveristy/2.8%20Conservation%20Efforts.md)
 
 #### Climate Change 
-- [Climate Change and Impact on India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.1%20Climate%20Change%20and%20Impact%20on%20India.md)
-- [Ocean Acidification and Ocean Depletion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.2%20Ocean%20Acidification%20and%20Ocean%20Depletion.md)
-- [Mitigation Strategies](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.3%20Mitigation%20Strategies.md)
-- [India and Climate Change](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.4%20India%20and%20Climate%20Change.md)
-- [Climate Change Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3.%20Climate%20Change/3.5%20Climate%20Change%20Organisations.md)
+- [Climate Change and Impact on India](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3%20Climate%20Change/3.1%20Climate%20Change%20and%20Impact%20on%20India.md)
+- [Ocean Acidification and Ocean Depletion](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3%20Climate%20Change/3.2%20Ocean%20Acidification%20and%20Ocean%20Depletion.md)
+- [Mitigation Strategies](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3%20Climate%20Change/3.3%20Mitigation%20Strategies.md)
+- [India and Climate Change](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3%20Climate%20Change/3.4%20India%20and%20Climate%20Change.md)
+- [Climate Change Organisations](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/3%20Climate%20Change/3.5%20Climate%20Change%20Organisations.md)
 
 #### Agriculture
 - [Agriculture](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/01%20Subject%20Wise%20Notes/%F0%9F%8D%83%20Environment%20and%20Disaster%20Management/4.%20Agriculture/4.1%20Agriculture.md)
