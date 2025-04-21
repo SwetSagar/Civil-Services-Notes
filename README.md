@@ -217,7 +217,7 @@ Sources referred for this were Essay notes of Anudeep Durishetty, Vision IAS Ess
 #### Security
 
 - [Role of external state and non state actors in creating challenges to Internal Security](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.1%20Role%20of%20external%20state%20and%20non%20state%20actors%20in%20creating%20challenges%20to%20Internal%20Security.md)
-- [Security challenges and their management in border areas, Cyber Security, Money Laundering](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.2%20Security%20challenges%20and%20their%20management%20in%20border%20areas,%20Cyber%20Security,%20Money%20Laundering.md)
+- [Security challenges and their management in border areas, Cyber Security, Money Laundering](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.2%20Security%20challeges%20and%20their%20management%20in%20border%20areas%2C%20Cyber%20Security%2C%20Money%20Laundering.md)
 - [Various security forces and Agencies and their mandate; Linkages of Organised Crime with Terrorism](https://github.com/SwetSagar/Civil-Services-Notes/blob/main/06%20GS-3/5.%20Security/5.3%20Various%20security%20forces%20and%20Agencies%20and%20their%20mandate;%20Linkages%20of%20Organised%20Crime%20with%20Terrorism.md)
 
 1. April 2019 onwards : Since 2023 I had moved to PT365.
